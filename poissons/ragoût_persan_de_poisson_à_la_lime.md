@@ -25,7 +25,7 @@ tags:
 * 1 tomate prune (un peu en long), coupée en dés
 * 1 oignon jaune ou 0.5 gros oignon rouge, coupé en dés
 * 0.25 tasse jus de lime
-* 0.5 à 1 c. thé sauce Vietnamienne piment et ail
+* 0.5 à 1 c. thé sauce sambal oelek (Vietnamienne piment et ail)
   * ou la même quantité de flocons de piment
 * 450g filets de poisson à chair ferme, coupés en morceaux de 4cm
   * traditionnellement du thon, mais on peut utiliser aussi du flétan, du mahi
