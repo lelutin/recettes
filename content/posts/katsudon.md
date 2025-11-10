@@ -1,10 +1,11 @@
 ---
 title: "とじないカツ丼(tojinai katsudon)"
-tags:
- - plat_principal
- - protéine_viande
- - porc
- - protéine_oeuf
+tags: 
+  - "plat_principal"
+  - "protéine_viande"
+  - "porc"
+  - "protéine_oeuf"
+draft: false
 ---
 
 * [Ingrédients](#ingrédients)
