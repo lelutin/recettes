@@ -1,5 +1,6 @@
 ---
 title: "Poivrons rôtis"
+summary: "Les poivrons rôtis prennent un peu de temps à cuire mais leur goût gagne beaucoup de saveur"
 tags:
  - plat_accompagnement
  - ingrédient_intermédiaire

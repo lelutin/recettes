@@ -1,5 +1,6 @@
 ---
 title: "Endives braisées"
+summary: "Entrée d'endives rapide et simple"
 tags:
  - plat_entrée
  - provenance_italie

@@ -1,5 +1,6 @@
 ---
 title: "ピリ辛きゅうりの浅漬け (pirikara kyuuri no asazuke)"
+summary: "Concombres assaisonnés très rapides à préparer"
 tags:
  - plat_accompagnement
  - provenance_japon

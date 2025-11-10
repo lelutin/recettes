@@ -1,5 +1,6 @@
 ---
 title: "Zuurkool Stamppot (Patates pilées à la choucroute)"
+summary: "Des patates pilées all-dressed. La choucroute et la pomme amènent une complexité intéressante"
 tags:
  - plat_principal
  - plat_accompagnement

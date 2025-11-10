@@ -1,5 +1,6 @@
 ---
 title: "Gratin Dauphinois"
+summary: "Entrée copieuse, mais crémeuse"
 tags:
  - plat_accompagnement
  - produit_laitier

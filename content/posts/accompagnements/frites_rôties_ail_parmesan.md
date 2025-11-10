@@ -1,5 +1,6 @@
 ---
 title: "Frites rôties à l'ail et au parmesan"
+summary: "Des frites, mais avec un peu plus de goût"
 tags:
  - plat_accompagnement
  - ingrédient_intermédiaire

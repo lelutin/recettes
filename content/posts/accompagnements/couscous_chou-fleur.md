@@ -1,5 +1,6 @@
 ---
 title: "'Couscous' de chou-fleur"
+summary: "chou-fleur émiété qui rappelle vaguement un couscous"
 tags:
  - plat_accompagnement
  - plat_principal

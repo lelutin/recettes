@@ -1,5 +1,6 @@
 ---
 title: "ほうれん草の胡麻和え (hourensou no gomaae, gomaae d'épinards)"
+summary: "Une entrée simple de légumes à la graine de sésame"
 tags:
  - plat_accompagnement
  - provenance_japon

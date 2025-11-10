@@ -1,5 +1,6 @@
 ---
 title: "Nom de la recette"
+summary: "courte phrase qui décrit le plat"
 tags:
  - plat_principal
  - protéine_quoi
