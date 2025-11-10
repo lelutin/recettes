@@ -2,7 +2,6 @@
 title: "Shatta (pâte aux piments, ail et huile d'olive)"
 tags:
  - condiment
- - pâte
  - épicé
  - provenance_palestine
  - vegan

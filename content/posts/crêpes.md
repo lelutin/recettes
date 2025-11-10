@@ -3,7 +3,7 @@ title: "Crêpes"
 tags:
  - plat_principal
  - protéine_viande
- - saucisses
+ - saucisse
  - produit_laitier
  - lait
  - fromage

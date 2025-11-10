@@ -1,11 +1,8 @@
 ---
 title: "Soupe à la courge et aux légumes"
 tags:
- - plat_principal
- - quelle protéine
- - plat_accompagnement
  - plat_entrée
- - plat_dessert
+ - vegan
 ---
 
 * [Ingrédients](#ingrédients)

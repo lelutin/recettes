@@ -5,7 +5,7 @@ tags:
  - protéine_viande
  - boeuf
  - protéine_fruit_de_mer
- - sauce_d_huitre
+ - sauce_d_huître
  - provenance_chine
 ---
 

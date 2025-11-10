@@ -4,7 +4,6 @@ tags:
   - condiment
   - ingrédient_intermédiaire
   - fermentation
-  - légumes
   - vegan
 ---
 

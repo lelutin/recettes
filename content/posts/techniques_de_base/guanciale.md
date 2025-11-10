@@ -1,7 +1,7 @@
 ---
-title: "Guaniale"
+title: "Guanciale"
 tags:
- - ingrédient
+ - ingrédient_intermédiaire
  - protéine_viande
 ---
 

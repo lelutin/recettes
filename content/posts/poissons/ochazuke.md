@@ -2,8 +2,8 @@
 title: "お茶漬け (ochazuke)"
 tags:
  - plat_principal
- - poisson
- - japon
+ - protéine_poisson
+ - provenance_japon
 ---
 
 * [Ingrédients](#ingrédients)

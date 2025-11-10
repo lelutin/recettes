@@ -1,8 +1,8 @@
 ---
-title: "Sauce piquate style caraïbes avec habaneros, carotte, oignon, ail roti"
+title: "Sauce piquante style caraïbes avec habaneros, carotte, oignon, ail roti"
 tags:
  - condiment
- - caraïbes
+ - provenance_caraïbes
  - épicé
  - vegan
 ---

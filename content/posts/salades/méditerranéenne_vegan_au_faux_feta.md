@@ -4,7 +4,7 @@ tags:
  - plat_principal
  - plat_entrée
  - plat_accompagnement
- - protéine_tofu
+ - protéine_soya
  - protéine_légumineuse
  - vegan
 ---

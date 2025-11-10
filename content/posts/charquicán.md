@@ -3,7 +3,7 @@ title: "Charquicán"
 tags:
  - plat_principal
  - protéine_viande
- - protéin_oeuf
+ - protéine_oeuf
  - provenance_chili
 ---
 

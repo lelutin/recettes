@@ -5,7 +5,7 @@ tags:
  - plat_entrée
  - protéine_légumineuse
  - produit_laitier
- - yougourt
+ - yogourt
  - végétarien
 ---
 

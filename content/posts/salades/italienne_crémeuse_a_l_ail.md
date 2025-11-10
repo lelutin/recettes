@@ -3,7 +3,7 @@ title: "Salade 'italienne' à la sauce crémeuse à l'ail"
 tags:
  - plat_principal
  - plat_entrée
- - carnivore
+ - protéine_viande
 ---
 
 * [Ingrédients](#ingrédients)

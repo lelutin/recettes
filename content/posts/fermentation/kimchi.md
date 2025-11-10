@@ -3,7 +3,7 @@ title: "Kimchi"
 tags:
  - plat_accompagnement
  - condiment
- - provenance_korée
+ - provenance_corée
 ---
 
 * [Ingrédients](#ingrédients)

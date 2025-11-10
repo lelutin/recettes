@@ -3,7 +3,7 @@ title: "Burger à l'oignon d'Oklahoma"
 tags:
  - plat_principal
  - protéine_viande
- - provenance_états-unis
+ - provenance_états_unis
 ---
 
 * [Ingrédients](#ingrédients)

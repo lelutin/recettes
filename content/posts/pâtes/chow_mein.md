@@ -3,7 +3,7 @@ title: "Chow mein, immitation Panda Express"
 tags:
  - plat_principal
  - protéine_fruit_de_mer
- - sauce_d_huîtres
+ - sauce_d_huître
  - provenance_chine
 ---
 

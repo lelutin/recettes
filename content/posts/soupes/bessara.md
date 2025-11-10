@@ -3,7 +3,7 @@ title: "Bessara"
 tags:
  - plat_principal
  - plat_entrée
- - protéine_légumineuses
+ - protéine_légumineuse
  - provenance_maroc
 ---
 

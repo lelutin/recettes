@@ -2,8 +2,8 @@
 title: "Oeufs braisés aux poireaux et za'atar"
 tags:
  - plat_principal
+ - protéine_oeuf
  - produit_laitier
- - oeufs
  - fromage
  - beurre
  - végétarien

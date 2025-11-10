@@ -2,7 +2,7 @@
 title: "Halloumi vegan (fauxmage)"
 tags:
  - condiment
- - tofu
+ - protéine_soya
  - vegan
 ---
 

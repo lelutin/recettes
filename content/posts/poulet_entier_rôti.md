@@ -2,7 +2,8 @@
 title: "Poulet entier rôti"
 tags:
  - plat_principal
- - quelle protéine
+ - protéine_viande
+ - poulet
  - plat_accompagnement
  - plat_entrée
  - plat_dessert

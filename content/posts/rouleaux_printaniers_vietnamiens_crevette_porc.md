@@ -3,7 +3,8 @@ title: "Rouleaux printaniers vietnamiens avec crevettes et porc"
 tags:
  - plat_principal
  - plat_entrée
- - crevettes
+ - protéine_fruit_de_mer
+ - crevette
  - protéine_viande
  - porc
  - provenance_vietnam

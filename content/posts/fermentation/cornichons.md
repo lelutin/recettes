@@ -4,7 +4,6 @@ tags:
   - plat_accompagnement
   - ingrédient_intermédiaire
   - fermentation
-  - légumes
   - vegan
 ---
 

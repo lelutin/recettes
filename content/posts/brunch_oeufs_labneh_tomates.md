@@ -2,7 +2,7 @@
 title: "Déjeuner aux oeufs avec labneh et tomates au four"
 tags:
  - plat_déjeuner
- - plat_brunch
+ - plat_principal
  - protéine_oeuf
  - produit_laitier
  - yogourt

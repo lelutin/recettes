@@ -2,10 +2,9 @@
 title: "Wrap au poulet et hummus"
 tags:
  - plat_principal
- - quelle protéine
- - plat_accompagnement
- - plat_entrée
- - plat_dessert
+ - protéine_viande
+ - poulet
+ - produit_laitier
 ---
 
 * [Ingrédients](#ingrédients)

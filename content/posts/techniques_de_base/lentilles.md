@@ -1,7 +1,8 @@
 ---
 title: "Lentilles"
 tags:
- - ingrédient
+ - ingrédient_intermédiaire
+ - vegan
 ---
 
 * [Ingrédients](#ingrédients)

@@ -7,7 +7,7 @@ tags:
  - fromage
  - protéine_viande
  - porc
- - provenance_hollande
+ - provenance_pays_bas
 ---
 
 * [Ingrédients](#ingrédients)

@@ -2,9 +2,11 @@
 title: "Pasta alla gricia"
 tags:
  - plat_principal
+ - protéine_viande
  - pancetta
+ - produit_laitier
  - fromage
- - italie
+ - provenance_italie
 ---
 
 * [Ingrédients](#ingrédients)

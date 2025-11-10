@@ -2,7 +2,7 @@
 title: "味噌汁(Soupe miso)"
 tags:
  - plat_entrée
- - protéine_soja
+ - protéine_soya
  - provenance_japon
 ---
 

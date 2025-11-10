@@ -5,7 +5,7 @@ tags:
  - protéine_oeuf
  - protéine_viande
  - boeuf
- - provenance_korée
+ - provenance_corée
 ---
 
 * [Ingrédients](#ingrédients)

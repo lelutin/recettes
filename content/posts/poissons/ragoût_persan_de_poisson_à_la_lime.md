@@ -2,7 +2,7 @@
 title: "Ragoût persan de poisson à la lime"
 tags:
  - plat_principal
- - poisson
+ - protéine_poisson
 ---
 
 * [Ingrédients](#ingrédients)

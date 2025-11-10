@@ -2,7 +2,7 @@
 title: "Tremper, éplucher et cuire les fèves gourganes"
 tags:
  - technique
- - ingrédient
+ - ingrédient_intermédiaire
 ---
 
 * [Ingrédients](#ingrédients)

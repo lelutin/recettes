@@ -1,10 +1,10 @@
 ---
-title: " 김치찌개 (kimchi jigae)"
+title: "김치찌개 (kimchi jigae)"
 tags:
  - plat_principal
  - protéine_viande
- - protéine_tofu
- - provenance_korée
+ - protéine_soya
+ - provenance_corée
 ---
 
 * [Ingrédients](#ingrédients)
