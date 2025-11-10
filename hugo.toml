@@ -1,4 +1,4 @@
-baseURL = 'https://recettes.lelutin.ca/'
+baseURL = 'https://lelutin.github.io/recettes'
 languageCode = 'fr-ca'
 title = 'Recettes'
 theme = 'quint'
