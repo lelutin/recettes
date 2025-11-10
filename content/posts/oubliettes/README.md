@@ -1,3 +1,6 @@
+---
+expirydate: "1970-01-01"
+---
 # Les recettes en punition
 
 Les recettes qui se trouvent ici c'est des choses que j'ai essayées, que j'ai

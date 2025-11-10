@@ -3,6 +3,7 @@ title: "Salade de quinoa avec avocat, yogourt et oeuf"
 tags:
  - plat_principal
  - oeuf
+expirydate: "1970-01-01"
 ---
 
 :InsertToc ici

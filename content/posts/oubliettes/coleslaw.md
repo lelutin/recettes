@@ -4,6 +4,7 @@ tags:
  - protéine_oeuf
  - plat_accompagnement
  - plat_entrée
+expirydate: "1970-01-01"
 ---
 
 * [Ingrédients](#ingrédients)
