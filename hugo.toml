@@ -1,0 +1,25 @@
+baseURL = 'https://recettes.lelutin.ca/'
+languageCode = 'fr-ca'
+title = 'Recettes'
+theme = 'quint'
+
+# theme configuraiton
+summaryLength = 20                  # Number of characters in your card summaries
+
+[pagination]
+pagerSize = 10                        # Number of posts to show on a list page
+
+[params]
+#css = ["css/custom.css"]            # Your custom CSS overrides, stored in yoursite/static/
+numImages = 10                      # Number of random images to choose from for banners (in themes/quint/static/images)
+useToc = true                      # Set to true to show a Table of Contents on multi-heading posts
+
+contact = "See you in a kitchen!"
+
+# Remove default "social networking" icons
+[[params.social]]
+
+# [[params.social]]                 # Customize your social links below!
+#     url = "https://twitter.com"
+#     icon = "/social/twitter.svg"
+#     name = "Twitter"
