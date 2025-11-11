@@ -1,13 +1,10 @@
 ---
-title: "Nom de la recette"
+title: '{{ replace .Name "-" " " | title }}'
 summary: "courte phrase qui décrit le plat"
 tags:
- - plat_principal
- - protéine_quoi
+ - plat_{principal,accompagnement,entrée,dessert}
+ - protéine_{viande,poisson,soya,oeuf}
  - ingrédient_intermédiaire
- - plat_accompagnement
- - plat_entrée
- - plat_dessert
  - provenance_où
 ---
 :InsertToc
