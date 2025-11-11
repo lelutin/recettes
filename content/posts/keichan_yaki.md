@@ -18,7 +18,7 @@ Donne TODO
 
 * 200g hauts de cuisse de poulet désossé, en bouchées ou en gros dés
 * 150g (environs 1/4) choux, en bouchées ou gros dés
-* 100g oignon, en dés moyens
+* 100g (1 moyen) oignon, en dés moyens
 * (optionnel) 4 shiitake, coupés en quatre
   * ou autre champignon au goùt, coupés en bouchées
 
