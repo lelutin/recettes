@@ -38,6 +38,8 @@ Décorations:
 * oignons verts, tranchés mince
 * coriandre, hachée
 
+Servir avec un accompagnement de légumes.
+
 ## Notes
 
 * Il est suggéré d'utiliser des nouilles ramen, mais n'importe quel type
