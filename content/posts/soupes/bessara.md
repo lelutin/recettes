@@ -1,7 +1,6 @@
 ---
 title: "Bessara"
 tags:
- - plat_principal
  - plat_entrée
  - protéine_légumineuse
  - provenance_maroc
@@ -14,9 +13,13 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 4 à 6 portions
 
 * 340g (environs 2.25 tasses) fèves gourganes cassées sèches
+  * note: les fèves sèches requièrent du traitement à l'avance. voir la
+    procédure
+  * des fèves en boîte peuvent être utilisées à la place pour retirer le temps
+    de trempage
 * 1/3 tasse huile d'olive
 * 6 ou 7 gousses d'ail, écrasées
 * 6.5 tasses d'eau
@@ -75,4 +78,3 @@ Préparation:
 ## Références
 
 * <https://tasteofmaroc.com/bessara-fava-bean-dip-or-soup/>
-
