@@ -13,7 +13,7 @@ tags:
 
 Donne 2 portions
 
-* dans un mortier ou robot culinaire
+* dans un gros mortier ou robot culinaire
   * 3 gousses d'ail, émincées très finement
     * si on utilise un robot culinaire on peut simplement trancher mince
   * 5cm (2-inch) gingembre, épluché et émincé très fin
@@ -49,7 +49,7 @@ Préparation:
    quelques minutes pour ramollir la pelure. Percer la peau à l'aide d'un
    couteau.
 3. Amener l'eau à ébullition dans une casserole moyenne à feu medium-fort.
-   Ajouter le poivre noir et le restant de curcuma et laisser bouillir deux
+   Ajouter le poivre noir et le restant de curcuma et laisser bouillir 2
    minutes.
 4. Ajouter la tomate et cuire un autre 5 minutes. Ajouter les oignons et laisser
    cuire encore 5 minutes.
