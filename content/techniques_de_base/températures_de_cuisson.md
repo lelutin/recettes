@@ -1,5 +1,6 @@
 ---
 title: "Températures internes de cuisson"
+summary: "A quelles températures interne est-ce que les différentes viandes sont rendues assez cuites?"
 tags:
  - ingrédient_intermédiaire
  - protéine_poisson

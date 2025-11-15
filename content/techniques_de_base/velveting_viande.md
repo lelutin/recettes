@@ -1,5 +1,6 @@
 ---
 title: "Velveting de viande"
+summary: "Truc dans la cuisini chinoise pour attendrir la viande avant de l'utiliser dans un stir-fry."
 tags:
  - ingrédient_intermédiaire
  - protéine_viande

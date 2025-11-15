@@ -1,5 +1,6 @@
 ---
 title: "Monder des tomates (éplucher par choc thermique)"
+summary: "Quand on veut des tomates fermes mais sans la texture trop solide de la peau"
 tags:
  - ingrédient_intermédiaire
 ---

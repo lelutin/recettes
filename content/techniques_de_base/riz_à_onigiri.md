@@ -1,5 +1,6 @@
 ---
 title: "Riz pour onigiri"
+summary: "Du bon riz un peu plus ferme mais collant."
 tags:
  - ingrédient_intermédiaire
  - vegan

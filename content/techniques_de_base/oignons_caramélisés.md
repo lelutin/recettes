@@ -1,5 +1,6 @@
 ---
 title: "Oignons caramélisés"
+summary: "Des oignons, mais encore plus sucrés!"
 tags:
  - plat_accompagnement
  - condiment

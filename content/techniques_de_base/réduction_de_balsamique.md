@@ -1,5 +1,6 @@
 ---
 title: "Réduction de vinaigre balsamique"
+summary: "Une super sauce à la fois sucrée et acidulée."
 tags:
  - condiment
  - vegan

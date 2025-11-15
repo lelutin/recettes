@@ -1,5 +1,6 @@
 ---
 title: "Oeufs durs / Oeufs mollets / Oeufs à la coque"
+summary: "Les différentes cuissons des oeufs dans leur coquille."
 tags:
  - ingrédient_intermédiaire
  - protéine_oeuf

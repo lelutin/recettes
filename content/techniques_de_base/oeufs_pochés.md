@@ -1,5 +1,6 @@
 ---
 title: "Oeufs pochés"
+summary: "Truc pour préparer un bon brunch."
 tags:
  - ingrédient_intermédiaire
  - protéine_oeuf

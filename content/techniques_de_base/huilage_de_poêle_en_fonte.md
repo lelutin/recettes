@@ -1,5 +1,6 @@
 ---
 title: "Comment huiler un nouvelle poêle en fonte"
+summary: "La pluspart sont maintenant déjà préparées, mais voilà comment faire si vous avez besoin de le refaire après avoir avoir retiré de la rouille."
 tags:
  - entretient
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Riz pilaf"
+summary: "Du riz avec un peu plus de consistence et arômes grillés."
 tags:
  - plat_accompagnement
  - ingrédient_intermédiaire

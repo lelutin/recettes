@@ -1,5 +1,6 @@
 ---
 title: "Pois chiches"
+summary: "Comment préparer des pois chiches secs et ensuite les faire cuire."
 tags:
  - protéine_légumineuse
  - ingrédient_intermédiaire

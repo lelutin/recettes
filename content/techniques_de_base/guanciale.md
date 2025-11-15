@@ -1,5 +1,6 @@
 ---
 title: "Guanciale"
+summary: "La joue de porc séchée peut avoir un goût horrible, mais pas si on fait un peu de traitement"
 tags:
  - ingrédient_intermédiaire
  - protéine_viande

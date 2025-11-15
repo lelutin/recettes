@@ -1,5 +1,6 @@
 ---
 title: "Bouillon de poulet"
+summary: "Comment faire un bouillon soi-même avec les restants d'un poulet entier"
 tags:
  - ingrédient_intermédiaire
  - protéine_viande

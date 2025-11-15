@@ -1,5 +1,6 @@
 ---
 title: "Roux pour épaissir un liquide"
+summary: "Un des trucs de base de la cuisine française pour lier un liquide."
 tags:
  - ingrédient_intermédiaire
  - végétarien

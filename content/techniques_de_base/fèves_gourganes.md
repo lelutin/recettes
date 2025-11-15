@@ -1,5 +1,6 @@
 ---
 title: "Tremper, éplucher et cuire les fèves gourganes"
+summary: "Les fèves gourganes (fava) ont besoin d'un traitement un peu spécial"
 tags:
  - technique
  - ingrédient_intermédiaire

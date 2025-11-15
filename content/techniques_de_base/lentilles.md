@@ -1,5 +1,6 @@
 ---
 title: "Lentilles"
+summary: "Comment faire cuire les lentilles. C'est moins long qu'on pourrait s'y attendre!"
 tags:
  - ingrédient_intermédiaire
  - vegan

@@ -1,5 +1,6 @@
 ---
 title: "Où trouver des recettes qui ont de l'allure"
+summary: "Une liste toute simple de sources de recettes que j'utilise plus souvent."
 tags:
 ---
 ## Références

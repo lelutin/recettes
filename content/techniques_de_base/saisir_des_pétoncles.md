@@ -1,5 +1,6 @@
 ---
 title: "Cuire des pétoncles en les faisant saisir"
+summary: "Les pétoncles ne doivent pas trop cuir, mais le goût caramélisé les rend vraiment bons."
 tags:
  - ingrédient_intermédiaire
  - protéine_fruit_de_mer

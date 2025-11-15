@@ -1,5 +1,6 @@
 ---
 title: "Faire rôtir des légumes"
+summary: "Les légumes rôtis sont un accompagnement génial en soit mais on peut aussi les utiliser dans une recette"
 tags:
  - plat_accompagnement
  - plat_entrée

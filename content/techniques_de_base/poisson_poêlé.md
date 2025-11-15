@@ -1,5 +1,6 @@
 ---
-title: "Poisson"
+title: "Poisson poêlé"
+summary: "Truc général pour cuire des filets de poisson dans la poêle."
 tags:
  - ingrédient_intermédiaire
  - protéine_poisson

@@ -1,5 +1,6 @@
 ---
 title: "Champignons shiitake séchés"
+summary: "Comment utiliser les shiitake séchés?"
 tags:
  - ingrédient_intermédiaire
  - vegan
