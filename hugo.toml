@@ -12,9 +12,9 @@ pagerSize = 40                        # Number of posts to show on a list page
 [params]
 css = ["css/custom.css"]            # Your custom CSS overrides, stored in yoursite/static/
 numImages = 10                      # Number of random images to choose from for banners (in themes/quint/static/images)
-useToc = true                      # Set to true to show a Table of Contents on multi-heading posts
+useToc = true                       # Set to true to show a Table of Contents on multi-heading posts
 
-contact = "See you in a kitchen!"
+contact = "Vous me croiserez peut-être dans une cuisine!"
 
 # Remove default "social networking" icons
 [[params.social]]
