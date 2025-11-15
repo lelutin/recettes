@@ -11,6 +11,8 @@ tags:
 
 ## Ingrédients
 
+Donne 2 portions
+
 * dans un mortier ou robot culinaire
   * 3 gousses d'ail, émincées très finement
     * si on utilise un robot culinaire on peut simplement trancher mince
@@ -36,8 +38,6 @@ Pour le service:
 * Riz basmati cuit
 * Tranches de lime
 * 1 tasse coriandre fraîche (ou autre herbe), hachée
-
-Donne 2 portions
 
 ## Instructions
 
