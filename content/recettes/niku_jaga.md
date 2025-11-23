@@ -30,7 +30,7 @@ Donne TODO
 
 ## Notes
 
-* pour couvrir le couvercle spécialisé (otoshibuta - 落し蓋) on peut utiliser
+* pour remplacer le couvercle spécialisé (otoshibuta - 落し蓋) on peut utiliser
   un essuie-tout avec quelques trous dedans.
   * L'essuie-tout ramasse en même temps l'écume. Avec autre chose qu'un
     essuie-tout il faut écumer qq secondes après le début de la cuisson.
