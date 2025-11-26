@@ -14,17 +14,17 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 4 bols
 
 * huile d'olive
 * dans un bol moyen
   * 1 oignon, émincé
   * 150g épinards frais ou surgelés
-  * 150g champignons émincés
+  * 150g champignons, émincés
 * 20cl eau tiède
-* 1 gousse d'ail, écrasée
+* 1 gousse d'ail, hachée
 * 400g gnocchi
-* 20cl crème
+* 200ml crème
 * 50g parmesan râpé
 * sel
 * poivre
