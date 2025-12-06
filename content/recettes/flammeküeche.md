@@ -28,13 +28,6 @@ Pâte, dans un grand bol:
   * 5cl huile de colza ou canola
   * 15cl d'eau tiède (température pièce)
 
-Garniture, dans une poêle température pièce:
-
-* 250g lardons fumés, en petits cubes
-* 1 gros oignon, tranché très mince (à la mandoline)
-* pour déglacer
-  * 1cl vin blanc (optionnel)
-
 Sauce, dans un petit bol:
 
 * 60g crème fraîche épaisse
@@ -45,6 +38,13 @@ Sauce, dans un petit bol:
   * ou yogourt
 * sel, poivre
 * muscade
+
+Garniture, dans une poêle température pièce:
+
+* 250g lardons fumés, en petits cubes
+* 1 gros oignon, tranché très mince (à la mandoline)
+* pour déglacer
+  * 1cl vin blanc (optionnel)
 
 Pour compléter le plat, on peut l'accompagner de vin blanc d'Alsace.
 
