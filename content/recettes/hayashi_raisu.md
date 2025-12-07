@@ -25,15 +25,17 @@ Donne 6 à 8 portions
   * ~ 10-12 champignons, tranchés mince
   * 1 carotte, tranchée mince
   * 1 gousse d'ail, hachée
-* soit:
+* dans un bol moyen, combiner:
+  * soit:
   * 1/2 tasse de demi glace mélangé avec 3 tasses d'eau (pour former du
-    bouillon)
+     bouillon)
   * ou 4 tasses de bouillon de boeuf
-* 1 tasse (240ml) de vin rouge
-* 2 feuilles de laurier
-* 440g de tomates en boîte
-* 1 c. à table de pâte de tomate
+  * 1 tasse (240ml) de vin rouge
+  * 2 feuilles de laurier
+  * 440g de tomates en boîte
+  * 1 c. à table de pâte de tomate
 * persil ou pois verts comme garniture
+* riz cuit
 
 Sauce:
 
@@ -59,7 +61,7 @@ Préparation:
 2. Dans la même poêle, ajouter un peu de beurre et les oignons.
 3. Faire sauter sur un feu médium-fort jusqu'à légèrement brunir les oignons
 4. Ajouter l'ail, les champignons et la carotte. Faire sauter jusqu'à ce que les
-   champignons ramollissent.
+   champignons ramollissent, environs 2 à 3 minutes.
 5. Transférer tous les légumes dans le chaudron et ajouter:
    * le vin
    * le bouillon
