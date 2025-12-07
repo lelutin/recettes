@@ -13,7 +13,7 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 4 portions repas
 
 * 0.25 tasse d'huile d'olive
 * 2 gousses d'ail, émincées
