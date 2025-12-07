@@ -9,7 +9,6 @@ tags:
 ---
 
 * [Ingrédients](#ingrédients)
-* [Outils](#outils)
 * [Instructions](#instructions)
 * [Références](#références)
 
