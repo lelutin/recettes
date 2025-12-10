@@ -23,7 +23,7 @@ Donne 4 portions
     * ou autre coupe avec un peu de gras
   * 1 à 3 c. thé gochugaru
     * ajuster au goût ou omettre
-  * 2 c. thé ail, émincé
+  * 2 c. thé ail, haché mince ou pressé
 * 0.5 tasse de jus de fermentation de kimchi, si disponible
   * ajoute beaucoup de saveur
 * 2 à 2.5 tasses d'eau de rinçage de riz (ssalddeumul, 쌀뜨물)
