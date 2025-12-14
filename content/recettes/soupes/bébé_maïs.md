@@ -12,7 +12,7 @@ tags:
 
 ## Ingrédients
 
-Donne 4 à 6 portions
+Donne 4 portions
 
 * 0.25 tasse huile
 * 1 oignon moyen, ciselé
