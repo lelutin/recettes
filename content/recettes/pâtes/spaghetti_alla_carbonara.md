@@ -15,15 +15,15 @@ tags:
 
 ## Ingrédients
 
-Donne 4 portions
+Donne 2 portions
 
-* 450g spaghetti
-* 225g guanciale, croûtes de sel et peau retirées, coupé en cubes
+* 225g spaghetti
+* 112g guanciale, croûtes de sel et peau retirées, coupé en bâtonnets
   * ou pancetta ou bloc de bacon
 * mélanger dans un bol moyen:
-  * 4 gros oeufs
-  * 0.5 tasse pecorino, râpé fin
-  * 0.5 tasse parmesan, râpé fin
+  * 2 gros oeufs
+  * 0.25 tasse pecorino, râpé fin
+  * 0.25 tasse parmesan, râpé fin
     * ou grana padano
     * ou encore, juste 0.5 tasse de plus de pecorino. pas nécessairement besoin
       d'avoir deux sortes de fromage
@@ -49,6 +49,9 @@ Donne 4 portions
   * Comme le fromage et la guanciale sont déjà salés, on peut même complètement
     omettre le sel dans l'eau. Comme on utilise l'eau de cuisson dans la sauce,
     ça risque de devenir trop salé très rapidement.
+* Dans le bain mari on veut arrêter quand la sauce commence à peine à épaissir.
+  On peut alors ajouter un tout petit peu d'eau de cuisson de nouilles pour
+  éviter que la sauce ne devienne trop épaisse.
 
 ## Instructions
 
