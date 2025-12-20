@@ -109,4 +109,6 @@ Servir en tranches de 2cm.
 
 ## Références
 
-* https://www.youtube.com/watch?v=H_HJ-iDiy78
+* <https://www.youtube.com/watch?v=H_HJ-iDiy78>
+* <https://dirndlkitchen.com/stollen/> -- version similaire mais sans orange et
+  citron confits
