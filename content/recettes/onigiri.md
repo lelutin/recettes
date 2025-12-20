@@ -100,8 +100,6 @@ Yaki onigiri:
 * <https://justhungry.com/2007/01/onigiri_omusubi_revisited_an_e.html>
 * <https://www.youtube.com/watch?v=gjTIoWFdvXc>
 * <https://www.youtube.com/watch?v=gXM5-GBmnOs>
-* <https://www.youtube.com/watch?v=_sL8BcPaxC4> -- quelques idées de fillings de
-  plus
 * <https://oceans-nadia.com/user/279721/recipe/392003>
 * <https://oceans-nadia.com/user/100063/recipe/368709>
 * <https://www.kyounoryouri.jp/recipe/7676_%E3%81%BF%E3%81%9D%E5%91%B3%E3%81%AE%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A.html>
