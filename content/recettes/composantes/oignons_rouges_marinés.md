@@ -12,13 +12,14 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 2 tasses d'oignon marinés (le même volume que l'oignon original)
 
 * 1 gros oignon rouge, tranché mince
 * 1 tasse eau
-* 1 tasse vinaigre
+* 1 tasse vinaigre de vin rouge
   * riz ou blanc ou autre
 * 1 bonne grosse pincée de sel
+* (optionnel) 0.5 tasse sucre
 
 ## Notes
 
@@ -41,4 +42,5 @@ Préparation:
 ## Références
 
 * <https://www.youtube.com/watch?v=K4HbmPu_M_4>
-
+* <https://www.americastestkitchen.com/articles/3233-how-to-make-your-cheap-balsamic-vinegar-taste-like-a-300-bottle>
+  * ça a l'air un peu trop sucré, mais sinon similaire
