@@ -15,7 +15,7 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 4 à 6 portions
 
 * 1 chou-fleur (environs 1.5 lb)
 * 5 oz. cachous crus
