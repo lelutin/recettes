@@ -22,7 +22,7 @@ Mélange à crêpes:
 
 * 270g (1.75 tasses) farine tout usage
 * 1 c. Table sucre
-* 0.25 c. thé cannelle
+* 0.25 c. thé cannelle en poudre
 * 0.5 c. thé poudre de gingembre
 * noix de muscade
 * une pincée de sel
