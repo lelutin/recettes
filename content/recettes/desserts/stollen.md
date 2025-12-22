@@ -15,7 +15,7 @@ tags:
 
 Donne 2 pains de 25cm
 
-Le pain:
+La pâte, 12 à 24h d'avance:
 
 * dans un contenant qui va au micro-ondes:
   * 1 tasse raisins secs
