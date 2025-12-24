@@ -27,8 +27,8 @@ Mélange à crêpes:
 * noix de muscade
 * une pincée de sel
 * 2 oeufs
-* 2.5 tasses (700ml) lait
 * 0.5 c. thé extrait de vanille
+* 2.5 tasses (700ml) lait
 
 Garniture:
 
