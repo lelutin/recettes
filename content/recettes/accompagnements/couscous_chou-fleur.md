@@ -18,8 +18,8 @@ tags:
 Donne 4 à 6 portions
 
 * 1 chou-fleur (environs 1.5 lb)
-* 5 oz. cachous crus
-* 3 oz. raisins secs
+* 140g cachous crus
+* 85g (environs 0.5 tasse) raisins secs
 * 5 c. Table huile d'olive
 * 0.25 tasse jus de citron
 * 2 c. Table persil émincé
@@ -47,7 +47,7 @@ Préparation:
    fréquemment pour ne pas laisser les cachous brûler. Laisser refroidir puis
    prendre la moitié des cachous pour les couper en plus petits morceaux (ou
    simplement les écraser pour en faire des petits morceaux)
-3. Séparer le chou-fleur en plus petites fleurs, puis les réduire en petits
+3. Séparer le chou-fleur en petites fleurettes, puis les réduire en petits
    morceaux. Le plus simple c'est de les passer légèrement au robot culinaire
    jusqu'à ce que ça soit des petits morceaux environs la taille du couscous
    (on ne veut pas produire de la pâte de chou-fleur).
@@ -58,7 +58,7 @@ Préparation:
    persil, l'ail, le zeste et le jus de citron et les 2 c. Table d'huile
    d'olive. Saler et poivrer. Mélanger.
 6. Laisser reposer pendant 15mins pour que les saveurs se combinent. Servir à
-   température pièce.
+   température pièce. Décorer de quelques unes des noix grillées restantes.
 
 Note: on peut combiner le chou-fleur avec du vrai couscous, moitié moitié.
 
