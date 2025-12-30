@@ -29,8 +29,10 @@ Aromates:
 
 * 1 c. Table beurre
 * 1-2 tranches bacon, émincées
+  * Des morceaux de lardon ça fonctionne plutôt bof. Trop gras et le gras reste
+    accroché en place, devient mou et inmangeable.
 * 3 oignons, émincés
-* 3 gousses d'ail, écrasées
+* 3 gousses d'ail, entières mais écrasées
 * 1-2 feuilles de laurier
 * thym frais
 
