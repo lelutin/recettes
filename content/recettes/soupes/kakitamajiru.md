@@ -17,6 +17,7 @@ tags:
 Donne X portions
 
 * 1 gros oeuf, battu
+  * à température pièce
 * dans un petit bol, mélanger:
   * 2 c. thé eau
   * 1 c. thé fécule de patate (ou de maïs)
@@ -51,10 +52,17 @@ Préparation:
    vers l'extérieur. Laisser l'oeuf cuire pendant 20 à 25 secondes seulement,
    puis retirer du feu.
    * On veut éviter de faire couler l'oeuf tout au même endroit et si possible
-     pas deux fois au même point. On veut créer un long ruban d'oeuf dans le
-     bouillon.
+     directement dans le bouillon (donc pas sur d'autre oeuf cuit qui flotte).
+     On veut créer des rubans d'oeuf dans le bouillon mais on ne cherche pas à
+     faire un seul long ruban qui serait difficile à séparer en portions..
 5. Servir immédiatement.
 
 ## Références
 
 * <https://www.justonecookbook.com/kakitamajiru-japanese-egg-drop-soup/>
+* <https://www.youtube.com/watch?v=-WQOtUGjSMA>
+  * démonstration visuelle. On peut laisser couler l'oeuf en plus grande
+    quantité d'un seul coup.
+* <https://www.youtube.com/watch?v=sXFS2zhRfG0>
+  * on peut également faire tourner le bouillon avec une louche en versant
+    l'oeuf à un endroit fixe.
