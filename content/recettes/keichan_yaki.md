@@ -14,13 +14,7 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
-
-* 200g hauts de cuisse de poulet désossé, en bouchées ou en gros dés
-* 150g (environs 1/4) choux, en bouchées ou gros dés
-* 100g (1 moyen) oignon, en dés moyens
-* (optionnel) 4 shiitake, coupés en quatre
-  * ou autre champignon au goùt, coupés en bouchées
+Donne 2 portions
 
 Sauce pour mariner, dans un bol moyen:
 
@@ -29,6 +23,16 @@ Sauce pour mariner, dans un bol moyen:
 * 1 c. thé sucre
 * 2 c. thé sauce soya
 * 1 c. thé (1 gousse) ail, râpé
+* 200g hauts de cuisse de poulet désossé, en bouchées ou en gros dés
+
+Autres ingrédients:
+
+* 150g (environs 1/4) choux, en bouchées ou gros dés
+* 100g (1 moyen) oignon, en dés moyens
+* (optionnel) 4 shiitake, coupés en quatre
+  * ou autre champignon au goùt, coupés en bouchées
+
+Servir avec du riz et un petit bol de soupe
 
 ## Notes
 
@@ -40,17 +44,20 @@ Sauce pour mariner, dans un bol moyen:
 
 ## Instructions
 
-Préparation:
+Mariner, 1h avant:
 
 1. Mélanger les ingrédients de la sauce dans un bol moyen. Ajouter le poulet et
    bien mélanger pour enrober les morceaux de sauce. Laisser mariner au frigo
    pendant une heure.
-2. Dans une poêle moyenne à feu moyen, chauffer un peu d'huile à cuisson puis
+
+Préparation:
+
+1. Dans une poêle moyenne à feu moyen, chauffer un peu d'huile à cuisson puis
    ajouter le poulet avec la sauce et les oignons. Faire frire en mélangeant
    jusqu'à ce que les oignons soient un peu ramollis, environs 4~5 minutes.
-3. Ajouter le choux et les champignons et faire frire en mélangeant jusqu'à ce
+2. Ajouter le choux et les champignons et faire frire en mélangeant jusqu'à ce
    que le choux ait ramolli, environs 4~5 minutes.
-4. Servir dans des bols.
+3. Servir dans des bols.
 
 ## Références
 
