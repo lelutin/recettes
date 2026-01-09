@@ -15,6 +15,7 @@ tags:
 Donne 2 portions
 
 * 1 tasse riz blanc cuit
+  * avec du riz brun ça fonctionne aussi
 * filet de saumon, dorade, vivaneau, ou autre poisson
   * ou si le poisson est suffisamment frais, coupé en sashimi
   * ou flocons de saumon
