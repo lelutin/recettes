@@ -16,19 +16,20 @@ tags:
 
 Donne 2 portions
 
-* 2 tasses kimchi
-* 225g tranches minces de porc
-  * ou ventre de porc avec pas trop de gras
-* 0.5 oignon, émincé
-* 2 oignons verts, tranché mince
-* 1 c. thé gingembre, râpé
-* 1 c. Table ail, émincé
-* 1 c. Table sauce soya
-* 1 c. Table sucre
-* 1 c. Table huile de sésame
-* 3 c. Table gochujang
-* 1 c. thé graines de sésame grillées
-* 1 pincée de poivre
+* Dans un grand bol:
+  * 1 c. Table huile de sésame
+  * 1 c. Table sauce soya
+  * 1 c. Table sucre
+  * 1.5 à 3 c. Table gochujang
+  * 2 tasses kimchi
+  * 225g tranches minces de porc
+    * ou ventre de porc avec pas trop de gras
+  * 0.5 oignon, émincé
+  * 2 oignons verts, tranché mince
+  * 1 c. thé gingembre, râpé
+  * 1 c. Table ail, émincé
+  * 1 c. thé graines de sésame grillées
+  * 1 pincée de poivre
 * 500g (1 bloc) tofu ferme ou mi-ferme, coupé en deux sur la longueur
 
 ## Instructions
