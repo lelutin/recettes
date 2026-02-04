@@ -37,7 +37,7 @@ Epices moulues:
   * 1 c. Table cumin
   * 0.5 c. Table graines de fenouil, écrasées
   * 0.5 c. Table garam masala
-  * 0.25 c. Table gingembre en poudre
+  * 0.75 c. thé gingembre en poudre
   * 2g assa-fœtida
   * 200g yogourt
 
