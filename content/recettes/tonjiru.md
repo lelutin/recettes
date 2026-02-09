@@ -18,14 +18,15 @@ Donne: 6 à 8 portions
 
 * 1 c. thé huile de sésame
   * ou huile neutre
-* 100g daikon, en demi-lunes de 5mm
-* 3 grosses carottes, en demi-lunes de 5mm
-* 0.5 bardane (gobo), coupé rangiri en petites bouchées
-  * on peut remplacer par 1 à 2 patates
-* 0.5 oignon, en demi-lunes de 5mm
-* 4 (environs 150g) satoimo (taro), coupées en bouchées
-* 1~2 oignons verts, en tranches diagonales d'environs 1cm de long
-  * ou un peu de poireau
+* dans un grand bol:
+  * 100g daikon, en demi-lunes de 5mm
+  * 3 grosses carottes, en demi-lunes de 5mm
+  * 0.5 bardane (gobo), coupé rangiri en petites bouchées
+    * on peut remplacer par 1 à 2 patates qui se tiennent bien dans la cuisson,
+      du genre patates jaunes. Certaines patates ont tendance à se désagréger
+      dans le bouillon pendant la cuisson.
+  * 0.5 oignon, en demi-lunes de 5mm
+  * 4 (environs 150g) satoimo (taro), coupées en bouchées
 * 200g ventre de porc, tranché mince
   * peut être des tranches congelées
 * 1L dashi
@@ -33,6 +34,8 @@ Donne: 6 à 8 portions
 * 5~6 c. Table miso
 * 8 fèves vertes, équeutées et coupées en tranches diagonales d'environs 1 cm de
   long
+* 1~2 oignons verts, en tranches diagonales d'environs 1cm de long
+  * ou un peu de poireau
 * (optionnel) ichimi togarashi
 
 Servir avec riz, légumes et marinades et optionnellement aussi une petite
@@ -46,8 +49,8 @@ Préparation:
    tous les légumes sauf pour les fèves vertes. Cuire pendant 1 à 2 minutes.
 2. Baisser à feu médium-doux. Déposer la viande sur les légumes et séparer les tranches en
    les dispersant partout sur la surface.
-3. Ouvrir le feu à médium-doux. Cuire la viande en mélangeant régulièrement
-   jusqu'à ce qu'il n'y ait plus de rosé, environs 2 à 3 minutes.
+3. Cuire la viande en mélangeant régulièrement jusqu'à ce qu'il n'y ait plus de
+   rosé, environs 2 à 3 minutes.
    * On ne veut pas que la viande colle au fond de la casserole, donc on doit
      mélanger plusieurs fois
 4. Ajouter le dashi dans la casserole puis augmenter à feu élevé pour amener à
