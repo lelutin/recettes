@@ -4,7 +4,7 @@ summary: "Pain des fêtes aux fruits confits et pâte d'amandes"
 tags:
  - plat_dessert
  - provenance_allemagne
- - végérarien
+ - végétarien
 ---
 
 * [Ingrédients](#ingrédients)
