@@ -1,12 +1,14 @@
 ---
-title: '{{ replace .Name "-" " " | title }}'
+title: 'Lait de grain'
 summary: "Liquide extrait de grains pressés"
 tags:
  - ingrédient_intermédiaire
  - provenance_amérique_du_nord
 ---
-:InsertToc
 
+* [Ingrédients](#ingrédients)
+* [Instructions](#instructions)
+* [Références](#références)
 
 ## Ingrédients
 

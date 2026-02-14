@@ -1,5 +1,5 @@
 ---
-title: '{{ replace .Name "-" " " | title }}'
+title: 'Lait de maïs'
 summary: "Liquide extrait de maïs sucré pour assaisonner un plat"
 tags:
  - ingrédient_intermédiaire

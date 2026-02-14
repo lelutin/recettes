@@ -1,5 +1,5 @@
 ---
-title: '{{ replace .Name "-" " " | title }}'
+title: 'Carbonnade'
 summary: "Boeuf braisé à la bière"
 tags:
  - plat_principal

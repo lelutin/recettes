@@ -1,5 +1,5 @@
 ---
-title: '{{ replace .Name "-" " " | title }}'
+title: 'Stollen'
 summary: "Pain des fêtes aux fruits confits et pâte d'amandes"
 tags:
  - plat_dessert

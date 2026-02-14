@@ -1,5 +1,5 @@
 ---
-title: '{{ replace .Name "-" " " | title }}'
+title: 'Soupe de bébé maïs'
 summary: "Soupe crémeuse au maïs"
 tags:
  - plat_entrée
