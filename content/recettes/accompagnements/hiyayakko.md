@@ -3,7 +3,7 @@ title: '冷奴 (ひややっこ - hiyayakko)'
 summary: "Tofu soyeux frais avec décorations"
 tags:
  - plat_accompagnement
- - plant_entrée
+ - plat_entrée
  - protéine_soya
  - provenance_japon
  - vegan
