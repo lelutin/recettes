@@ -7,7 +7,7 @@ theme = 'quint'
 summaryLength = 20                  # Number of characters in your card summaries
 
 [pagination]
-pagerSize = 40                        # Number of posts to show on a list page
+pagerSize = 60                        # Number of posts to show on a list page
 
 [params]
 css = ["css/custom.css"]            # Your custom CSS overrides, stored in yoursite/static/
