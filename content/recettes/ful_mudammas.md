@@ -1,5 +1,6 @@
 ---
 title: "Ful mudammas"
+summary: "Trempette aux fêves pour un super déjeuner"
 tags:
  - plat_accompagnement
  - plat_entrée

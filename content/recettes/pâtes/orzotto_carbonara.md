@@ -1,5 +1,6 @@
 ---
 title: "Carbonara orzotto"
+summary: "Pâtes carbonara mais qui utilise de l'orzo, ce qui donne vaguement une allure de risotto"
 tags:
  - plat_principal
  - produit_laitier

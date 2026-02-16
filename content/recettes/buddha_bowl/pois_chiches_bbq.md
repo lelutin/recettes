@@ -1,5 +1,6 @@
 ---
 title: "Bol de grains et pois chiches BBQ"
+summary: "Bol de grains très simple aux pois chiches"
 tags:
  - plat_principal
  - protéine_légumineuse

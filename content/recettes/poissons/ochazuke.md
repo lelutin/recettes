@@ -1,5 +1,6 @@
 ---
 title: "お茶漬け (ochazuke)"
+summary: "Saumon ou autre poisson gras grillé sur un liz de riz arrosé au thé vert"
 tags:
  - plat_principal
  - protéine_poisson

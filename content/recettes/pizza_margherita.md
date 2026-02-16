@@ -1,5 +1,6 @@
 ---
 title: "Pizza margherita"
+summary: "Pizza simpliste à la sauce tomate, mozzarella et basilic"
 tags:
  - plat_principal
  - produit_laitier

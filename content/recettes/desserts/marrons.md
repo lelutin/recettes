@@ -1,5 +1,6 @@
 ---
 title: "Marrons"
+summary: "Technique de base pour la cuisson des marrons"
 tags:
   - plat_accompagnement
   - ingrédient_intermédiaire

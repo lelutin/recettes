@@ -1,5 +1,6 @@
 ---
 title: "비빔밥(bibimbap)"
+summary: "Mélange de légumes, oeufs et viande sur du riz avec une sauce épicée"
 tags:
  - plat_principal
  - protéine_oeuf

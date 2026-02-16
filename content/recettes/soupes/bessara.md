@@ -1,5 +1,6 @@
 ---
 title: "Bessara"
+summary: "Soupe ou trempette dépendant à quel point on réduit le liquide. Plein de goût concentré"
 tags:
  - plat_entrée
  - protéine_légumineuse

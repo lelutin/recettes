@@ -1,5 +1,6 @@
 ---
 title: "Fettucine"
+summary: "Comment faire des pâtes fettucine à la maison"
 tags:
  - ingrédient_intermédiaire
  - provenance_italie

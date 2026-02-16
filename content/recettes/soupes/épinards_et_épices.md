@@ -1,5 +1,6 @@
 ---
 title: "Soupe aux épinards et épices"
+summary: "Une soupe où les épinards sont au centre mais sont bien relevés par des épices"
 tags:
  - plat_entrée
  - protéine_viande

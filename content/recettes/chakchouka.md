@@ -1,5 +1,6 @@
 ---
 title: "Chakchouka"
+summary: "Compote de tomates et poivrons légèrement épicée"
 tags:
  - plat_principal
  - protéine_oeuf

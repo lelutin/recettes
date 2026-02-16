@@ -1,5 +1,6 @@
 ---
 title: "そぼろ丼 (soboro don)"
+summary: "Plat sur riz de viande et omelette sucrée en petits grains"
 tags:
  - plat_principal
  - protéine_viande

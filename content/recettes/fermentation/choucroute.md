@@ -1,5 +1,6 @@
 ---
 title: "Choucroute"
+summary: "Languettes de choux sûris par la fermentation"
 tags:
   - condiment
   - ingrédient_intermédiaire

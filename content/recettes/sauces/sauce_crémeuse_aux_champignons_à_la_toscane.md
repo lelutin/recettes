@@ -1,5 +1,6 @@
 ---
 title: "Sauce aux champignons à la toscane"
+summary: "Sauce au beurre et crème aux champignons et à la tomate séchée"
 tags:
  - ingrédient_intermédiaire
  - végétarien

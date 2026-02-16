@@ -1,5 +1,6 @@
 ---
 title: "Jambalaya à la Cajun"
+summary: "Riz au poulet et saucisses avec la trinité cajun de légumes"
 tags:
  - plat_principal
  - poulet

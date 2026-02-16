@@ -1,5 +1,6 @@
 ---
 title: "Chili con carne express"
+summary: "Chili à la viande rapide à faire à la casserole"
 tags:
  - plat_principal
  - protéine_viande

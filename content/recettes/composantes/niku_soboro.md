@@ -1,5 +1,6 @@
 ---
 title: "肉そぼろ (niku soboro)"
+summary: "Viande hachée fortement assaisonnée et transformée en petits grains"
 tags:
  - plat_principal
  - protéine_viande

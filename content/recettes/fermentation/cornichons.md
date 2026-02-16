@@ -1,5 +1,6 @@
 ---
 title: "Cornichons lacto-fermentés"
+summary: "Concombres sûris par fermentation"
 tags:
   - plat_accompagnement
   - ingrédient_intermédiaire

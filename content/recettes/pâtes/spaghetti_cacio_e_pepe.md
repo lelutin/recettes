@@ -1,5 +1,6 @@
 ---
 title: "Spaghetti cacio e pepe"
+summary: "Une des recettes de base de pâtes romaines: fromage et poivre"
 tags:
  - plat_principal
  - fromage

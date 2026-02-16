@@ -1,5 +1,6 @@
 ---
 title: "Beurre blanc"
+summary: "Du beurre transformé en sauce avec échalotte et vin"
 tags:
  - ingrédient_intermédiaire
  - sauce

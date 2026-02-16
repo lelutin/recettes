@@ -1,5 +1,6 @@
 ---
 title: "Salade de lentilles, concombres et olives"
+summary: "Salade froide moutarde et olives"
 tags:
  - plat_principal
  - plat_accompagnement

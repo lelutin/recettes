@@ -1,5 +1,6 @@
 ---
 title: "Galettes à la mélasse"
+summary: "Les biscuits parfait qui sont vendus beaucoup trop cher à l'épicerie"
 tags:
   - plat_dessert
   - biscuit

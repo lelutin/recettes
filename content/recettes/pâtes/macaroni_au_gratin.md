@@ -1,5 +1,6 @@
 ---
 title: "Macaroni au gratin"
+summary: "Aussi connu comme macaroni au fromage ou mac & cheese"
 tags:
  - plat_principal
  - produit_laitier

@@ -1,5 +1,6 @@
 ---
 title: "김치찌개 (kimchi jigae)"
+summary: "Soupe au kimchi"
 tags:
  - plat_principal
  - protéine_viande

@@ -1,5 +1,7 @@
 ---
 title: "Spaghetti alla carbonara"
+summary: "Une des recettes de base de pâtes romaines: lardons, oeufs, fromage et
+poivre"
 tags:
  - plat_principal
  - produit_laitier

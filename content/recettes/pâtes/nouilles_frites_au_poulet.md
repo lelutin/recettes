@@ -1,5 +1,6 @@
 ---
 title: "Nouilles frites au poulet"
+summary: "Bouchées de poulet mariné servi sur nouilles aux oeufs"
 tags:
  - plat_principal
  - protéine_viande

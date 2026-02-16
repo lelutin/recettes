@@ -1,5 +1,6 @@
 ---
 title: "Crêpes"
+summary: "Mon interprétation de la recette de mon père"
 tags:
  - plat_principal
  - protéine_viande

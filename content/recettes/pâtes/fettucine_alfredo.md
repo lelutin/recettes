@@ -1,5 +1,6 @@
 ---
 title: "Fettucine Alfredo"
+summary: "Recette de pâtes du restaurant Alfredo alla scrofa"
 tags:
  - plat_principal
  - fromage

@@ -1,5 +1,6 @@
 ---
 title: "味噌汁(Soupe miso)"
+summary: "La classique soupe au miso et tofu"
 tags:
  - plat_entrée
  - protéine_soya
@@ -20,8 +21,8 @@ Donne 2 portions
     MSG.
   * utiliser une cuiller à mesurer pour éviter d'en mettre trop
 * 180g tofu mou, en petits cubes
-* 1 c. thé wakame coupé sec, réhydraté 5mins dans de l'eau tiède ensuite
-  squeezé délicatement pour retirer l'excédent d'eau
+* (optionnel) 1 c. thé wakame coupé sec, réhydraté 5mins dans de l'eau tiède
+  ensuite squeezé délicatement pour retirer l'excédent d'eau
 * 1 branche oignon vert, tranché mince
   * ou quelques tranches très minces de poireau, au total environs 1cm de la
     longueur du poireau

@@ -1,5 +1,6 @@
 ---
 title: "Parmigiana di Melanzane (Aubergines parmigiana)"
+summary: "Tranches d'aubergine dans une sauce tomate, couvert de formage gratiné"
 tags:
  - plat_principal
  - fromage

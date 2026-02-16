@@ -1,5 +1,6 @@
 ---
 title: "Salade d'orzo au choufleur rôti, noix de pin et persil"
+summary: "Salade de pâtes au goût de noix"
 tags:
  - plat_accompagnement
  - noix

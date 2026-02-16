@@ -1,5 +1,6 @@
 ---
 title: "掻きたま汁 (kakitamajiru, ou soupe d'oeuf coulé)"
+summary: "Soupe un peu épaissie avec des filaments d'oeufs"
 tags:
  - protéine_oeuf
  - plat_accompagnement

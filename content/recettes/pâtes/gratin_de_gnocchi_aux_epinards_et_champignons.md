@@ -1,5 +1,6 @@
 ---
 title: "Gratin de gnocchi aux épinards et champignons"
+summary: "Gnocchis cuits dans une sauce à la crème et aux champignons et gratiné au four"
 tags:
  - plat_principal
  - produit_laitier

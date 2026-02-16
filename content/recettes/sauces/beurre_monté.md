@@ -1,5 +1,6 @@
 ---
 title: "Beurre monté"
+summary: "Version simplifiée du beurre blanc"
 tags:
  - ingrédient_intermédiaire
  - sauce

@@ -1,5 +1,6 @@
 ---
 title: "Croque Monsieur"
+summary: "Sandwitch simple et réconfortant, mais bien gras"
 tags:
  - plat_principal
  - protéine_viande

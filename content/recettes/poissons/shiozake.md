@@ -1,5 +1,6 @@
 ---
 title: "塩鮭 (shiozake)"
+summary: "Saumon préservé par salaison"
 tags:
  - ingrédient_intermédiaire
  - protéine_poisson

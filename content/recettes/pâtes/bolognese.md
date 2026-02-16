@@ -1,5 +1,6 @@
 ---
 title: "Sauce bolognese"
+summary: "Sauce tomate à la viande hachée. Parfaite sur des pâtes ou dans la lasagne"
 tags:
  - plat_principal
  - ingrédient_intermédiaire

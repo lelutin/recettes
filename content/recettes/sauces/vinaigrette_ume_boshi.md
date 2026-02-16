@@ -1,5 +1,6 @@
 ---
 title: "Vinaigrette à l'ume boshi"
+summary: "Vinaigrette pour salade avec une prune vinaigrée"
 tags:
  - condiment
  - vegan

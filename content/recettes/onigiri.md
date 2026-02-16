@@ -1,5 +1,6 @@
 ---
 title: "お握り・握り飯 (Onigiri ou Omusubi)"
+summary: "Boules de riz farcies et formées en triangles"
 tags:
  - plat_principal
  - collation

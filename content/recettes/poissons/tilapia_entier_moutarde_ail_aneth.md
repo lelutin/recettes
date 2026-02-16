@@ -1,5 +1,6 @@
 ---
 title: "Tilapia entier cuit avec moutarde, ail et aneth"
+summary: "Poisson entier de tilapia cuit au four avec sauve moutarge ail et aneth"
 tags:
  - plat_principal
  - protéine_poisson

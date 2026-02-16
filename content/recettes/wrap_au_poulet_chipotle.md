@@ -1,5 +1,6 @@
 ---
 title: "Wrap au poulet chipotle"
+summary: "Sandwitch au poulet dans un tortilla"
 tags:
  - plat_principal
  - poulet

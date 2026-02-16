@@ -1,5 +1,6 @@
 ---
 title: "Flammeküeche"
+summary: "Pâte fine avec sauce fromage, lardons et oignons"
 tags:
  - plat_entrée
  - plat_principal

@@ -1,5 +1,6 @@
 ---
 title: "Oeufs à la sauce moutarde"
+summary: "Des oeufs dans une sauce blanche à la moutarde et généralement accompagné de patates et viande froide ou cuite"
 tags:
  - plat_principal
  - protéine_oeuf

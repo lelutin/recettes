@@ -1,5 +1,6 @@
 ---
 title: "Déjeuner aux oeufs avec labneh et tomates au four"
+summary: "Oeufs durs ou pochés avec sauce au yogourt et tomates"
 tags:
  - plat_déjeuner
  - plat_principal

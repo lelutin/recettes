@@ -1,5 +1,6 @@
 ---
 title: "Sauce piquante style caraïbes avec habaneros, carotte, oignon, ail roti"
+summary: "Sauce liquide et bien épicée"
 tags:
  - condiment
  - provenance_caraïbes

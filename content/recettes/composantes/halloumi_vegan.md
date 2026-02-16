@@ -1,5 +1,6 @@
 ---
 title: "Halloumi vegan (fauxmage)"
+summary: "Soya mariné pour plus ou moins immiter du halloumi"
 tags:
  - condiment
  - protéine_soya

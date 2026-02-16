@@ -1,5 +1,6 @@
 ---
 title: "Coquilles St-Jacques au gratin"
+summary: "Mollusque au fromage"
 tags:
   - plat_principal
   - plat_accompagnement

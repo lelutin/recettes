@@ -1,5 +1,6 @@
 ---
 title: "La pasta di Elena"
+summary: "Recette de pâtes d'Elena de la quincaillerie Dante"
 tags:
  - ingrédient_intermédiaire
  - protéine_oeuf

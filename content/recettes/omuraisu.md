@@ -1,5 +1,6 @@
 ---
 title: "オムライス(Omuraisu)"
+summary: "Omelette sur du riz au poulet et ketchup"
 tags:
  - plat_principal
  - protéine_oeuf

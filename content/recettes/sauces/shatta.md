@@ -1,5 +1,6 @@
 ---
 title: "Shatta (pâte aux piments, ail et huile d'olive)"
+summary: "Une sauce palestinienne bien épicée"
 tags:
  - condiment
  - épicé

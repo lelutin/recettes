@@ -1,5 +1,6 @@
 ---
 title: "Saumon aux lentilles"
+summary: "Du saumon à la peau croustillante déposé sur un lit de lentilles au mirepoix"
 tags:
  - plat_principal
  - protéine_poisson

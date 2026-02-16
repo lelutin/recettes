@@ -1,5 +1,6 @@
 ---
-title: "Champignons bourgignon"
+title: "Champignons bourguignon"
+summary: "Version vegan du boeuf bourguignon avec des champignons"
 tags:
  - plat_principal
  - vegan

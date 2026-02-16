@@ -1,5 +1,6 @@
 ---
 title: "Côtes levées de porc BBQ à la mijotteuse"
+summary: "Truc ultra facile pour cuire des côtes levées à la mijoteuse"
 tags:
  - plat_principal
  - protéine_viande

@@ -1,5 +1,6 @@
 ---
 title: "Salade de patates"
+summary: "Salade de patates typique aux cornichons et aneth"
 tags:
  - plat_principal
  - plat_entrée

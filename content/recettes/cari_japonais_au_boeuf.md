@@ -1,5 +1,6 @@
 ---
 title: "Cari japonais au boeuf"
+summary: "Boeuf braisé au cari avec légumes racines"
 tags:
  - plat_principal
  - protéine_viande

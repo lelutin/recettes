@@ -1,5 +1,6 @@
 ---
 title: "Kimchi"
+summary: "Choux fermenté dans une sauce épicée"
 tags:
  - plat_accompagnement
  - condiment

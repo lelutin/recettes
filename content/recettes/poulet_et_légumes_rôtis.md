@@ -1,5 +1,6 @@
 ---
 title: "Poulet et légumes rôtis"
+summary: "Recette super simple de bouchées de poulet et légumes rôtis"
 tags:
  - plat_principal
  - protéine_viande

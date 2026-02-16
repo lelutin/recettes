@@ -1,5 +1,6 @@
 ---
 title: "Ribollita"
+summary: "Soupe aux tomates et fèves blanches"
 tags:
  - plat_principal
  - fêves
@@ -18,7 +19,7 @@ Donne 4 à 6 portions
   * 2 gros oignons, émincés
   * 3 carottes moyennes, épluchées et émincées
   * 2 branches de céleri, émincés
-  * 8 gousses d'ai, épluchées et écrasées
+  * 8 gousses d'ail, épluchées et écrasées
 * 0.3 tasse huile d'olive extra vierge, un peu plus pour arroser le pain
 * sel cachère
 * 1 can (800ml) tomates entières pelées

@@ -1,5 +1,6 @@
 ---
 title: "鶏ちゃん焼き（けいちゃん） (keichan yaki)"
+summary: "Poulet mariné et cuit dans une sauce au miso accompagné de choux, oignons et champignons."
 tags:
  - plat_principal
  - protéine_viande

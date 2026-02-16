@@ -1,5 +1,6 @@
 ---
 title: "Ragoût persan de poisson à la lime"
+summary: "Poisson à chair ferme dans un bouillon à la lime"
 tags:
  - plat_principal
  - protéine_poisson

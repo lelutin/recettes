@@ -1,5 +1,6 @@
 ---
 title: "Salade Caprese"
+summary: "Tranches de tomate, de fromage et de basilic au vinaigre balsamique et huile d'olive"
 tags:
  - plat_entrée
  - fromage

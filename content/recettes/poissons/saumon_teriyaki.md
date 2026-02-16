@@ -1,5 +1,6 @@
 ---
 title: "Saumon teriyaki"
+summary: "Mélange de poisson gras et sauce sucrée-salée"
 tags:
  - plat_principal
  - protéine_poisson

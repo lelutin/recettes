@@ -1,5 +1,6 @@
 ---
 title: "牛丼(Gyuudon)"
+summary: "Boeuf dans un bouillon légèrement salé et sucré sur riz"
 tags:
  - plat_principal
  - protéine_viande

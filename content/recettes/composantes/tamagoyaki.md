@@ -1,5 +1,6 @@
 ---
 title: "卵焼き (tamagoyaki)"
+summary: "Comment préparer des oeufs sucrés en un rouleau"
 tags:
  - plat_accompagnement
  - ingrédient_intermédiaire

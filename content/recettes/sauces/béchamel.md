@@ -1,5 +1,6 @@
 ---
 title: "Sauce béchamel"
+summary: "Une des sauces sauces mères de la cuisine française"
 tags:
  - sauce
  - ingrédient_intermédiaire

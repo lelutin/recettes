@@ -1,5 +1,6 @@
 ---
 title: "Chow mein, immitation Panda Express"
+summary: "Version maison du chow mein d'une chaîne très connue de restaurants"
 tags:
  - plat_principal
  - protéine_fruit_de_mer

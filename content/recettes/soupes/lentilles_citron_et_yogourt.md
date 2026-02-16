@@ -1,5 +1,6 @@
 ---
 title: "Soupe aux lentilles, citron et yogourt"
+summary: "Une soupe aux lentilles réconfortante avec du yogourt au citron qui l'emporte beaucoup plus loin"
 tags:
  - plat_accompagnement
  - plat_entrée

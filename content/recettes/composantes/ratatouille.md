@@ -1,5 +1,6 @@
 ---
 title: "Ratatouille"
+summary: "Compote de légumes d'automne qui peut être utilisée de plein de façons"
 tags:
  - plat_principal
  - plat_accompagnement

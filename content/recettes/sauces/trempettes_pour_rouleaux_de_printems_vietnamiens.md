@@ -1,5 +1,6 @@
 ---
 title: "Trempettes pour les rouleaux de printemps vietnamiens"
+summary: "Sauce salée pour les rouleaux printanniers"
 tags:
  - condiment
  - provenance_vietnam

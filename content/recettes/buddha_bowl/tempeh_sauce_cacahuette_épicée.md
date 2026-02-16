@@ -1,5 +1,6 @@
 ---
 title: "Buddha bowl au tempeh avec sauce épicée aux cacahuètes"
+summary: "Délicieux mélange d'épices, et sauce épicée aux cacahuètes"
 tags:
  - plat_principal
  - protéine_soya

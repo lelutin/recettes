@@ -1,5 +1,6 @@
 ---
 title: "Salade d'orzo, tomates et pois chiches"
+summary: "Salade froide et soutenue qui se prête bien aux pique-niques"
 tags:
  - plat_principal
  - plat_accompagnement

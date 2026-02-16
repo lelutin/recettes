@@ -1,5 +1,6 @@
 ---
 title: "とじないカツ丼(tojinai katsudon)"
+summary: "Tranche de porc pannée sur un lit d'oeuf cuit dans le bouillon et servi sur du riz"
 tags: 
   - "plat_principal"
   - "protéine_viande"

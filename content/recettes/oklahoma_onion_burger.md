@@ -1,5 +1,6 @@
 ---
 title: "Burger à l'oignon d'Oklahoma"
+summary: "Hamburger avec des oignons caramélisés dans le gras de la viande"
 tags:
  - plat_principal
  - protéine_viande

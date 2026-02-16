@@ -1,5 +1,6 @@
 ---
 title: "Salade de pâtes aux haricots avec citron et herbes"
+summary: "Salade de pâtes citronnée et sucrée"
 tags:
  - plat_principal
  - plat_entrée

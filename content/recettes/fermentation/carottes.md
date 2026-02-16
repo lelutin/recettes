@@ -1,5 +1,6 @@
 ---
 title: "Carottes fermentées"
+summary: "Bâtonnets de carottes sûris par la fermentation"
 tags:
  - condiment
  - vegan

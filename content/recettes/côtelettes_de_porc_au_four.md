@@ -1,5 +1,6 @@
 ---
 title: "Côtelettes de porc au four"
+summary: "Recette vraiment de base pour la cuisson des côtelettes"
 tags:
  - plat_principal
  - protéine_viande

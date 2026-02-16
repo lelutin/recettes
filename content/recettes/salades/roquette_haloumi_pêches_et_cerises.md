@@ -1,5 +1,6 @@
 ---
 title: "Salade de roquette avec halloumi, pêches et cerises"
+summary: "Salade aux fruits frais et au fromage grillé"
 tags:
  - plat_entrée
  - fromage

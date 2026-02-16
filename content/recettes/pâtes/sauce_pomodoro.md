@@ -1,5 +1,6 @@
 ---
 title: "Sauce pomodoro"
+summary: "Sauce qui concentre le goût des tomates"
 tags:
   - sauce
   - ingrédient_intermédiaire

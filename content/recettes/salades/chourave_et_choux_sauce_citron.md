@@ -1,5 +1,6 @@
 ---
 title: "Salade de chourave et choux avec sauce citron et sirop d'érable"
+summary: "Salade de choux mais avec une twist sucrée et sûre"
 tags:
  - plat_entrée
  - vegan

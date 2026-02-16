@@ -1,5 +1,6 @@
 ---
 title: "Ragoût de boeuf simple"
+summary: "Recette très simple de boeuf cuit longtemps dans un bouillon avec carottes, patates et petits pois"
 tags:
  - plat_principal
  - protéine_viande

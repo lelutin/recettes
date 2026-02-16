@@ -1,5 +1,6 @@
 ---
 title: "Pasta alla gricia"
+summary: "Une des bases des pâtes romaines: lardons, fromage et poivre"
 tags:
  - plat_principal
  - protéine_viande

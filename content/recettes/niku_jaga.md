@@ -1,5 +1,6 @@
 ---
 title: "肉じゃが (niku jaga)"
+summary: "Tranches mince de viande dans un bouillon avec patates et carottes"
 tags:
  - plat_principal
  - protéine_viande

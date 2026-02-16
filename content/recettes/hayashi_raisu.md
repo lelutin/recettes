@@ -1,5 +1,6 @@
 ---
 title: "ハヤシライス (Hayashi raisu)"
+summary: "Tranches minces de boeuf cuite dans une sauce au beurre et servi sur du riz"
 tags:
  - plat_principal
  - protéine_viande

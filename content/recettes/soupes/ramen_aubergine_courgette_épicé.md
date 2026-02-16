@@ -1,5 +1,6 @@
 ---
 title: "Ramen épicé à l'aubergine et courgette"
+summary: "Un genre de ramen vegan qui explose de saveurs"
 tags:
  - plat_principal
  - vegan

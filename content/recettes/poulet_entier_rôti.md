@@ -1,5 +1,6 @@
 ---
 title: "Poulet entier rôti"
+summary: "Comment faire cuire un poulet entier au four"
 tags:
  - plat_principal
  - protéine_viande

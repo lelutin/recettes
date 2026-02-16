@@ -1,5 +1,6 @@
 ---
 title: "Speculaaskruiden (épices à tarte à la citrouille)"
+summary: "Mélange d'épices"
 tags:
  - mélange d'épices
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Salade de roquette à la betterave et fromage de chèvre"
+summary: "Un mélange d'amertume, de crémeux et de vinaigré"
 tags:
  - produit_laitier
  - plat_accompagnement

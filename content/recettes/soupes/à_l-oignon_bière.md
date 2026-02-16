@@ -1,5 +1,6 @@
 ---
 title: "Soupe à l'oignon à la bière"
+summary: "La classique soupe à l'oignon mais dans laquelle une bière remplace le vin"
 tags:
  - plat_principal
  - plat_entrée

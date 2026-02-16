@@ -1,5 +1,6 @@
 ---
 title: "Bacon glacé miel et ail"
+summary: "A la fois un dessert et un snack salé"
 tags:
  - plat_accompagnement
  - ingrédient_intermédiaire

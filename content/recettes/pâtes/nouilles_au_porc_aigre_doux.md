@@ -1,5 +1,7 @@
 ---
 title: "Nouilles au porc aigre-doux"
+summary: "Du porc cuit dans une sauce aigre-douce sur un lit de nouilles aux
+oeufs"
 tags:
  - plat_principal
  - protéine_viande

@@ -1,5 +1,6 @@
 ---
 title: "Riz frit au crabe"
+summary: "La chair de crabe est un peu chère ici, mais ça fait un riz frit différent et bien bon"
 tags:
  - plat_principal
  - protéine_fruit_de_mer

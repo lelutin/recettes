@@ -1,5 +1,6 @@
 ---
 title: "Pancake soufflé"
+summary: "Moitié crêpe, moitié soufflé. Le résultat est super moëlleux"
 tags:
  - plat_dessert
  - végétarien

@@ -1,5 +1,6 @@
 ---
 title: "Guacamole"
+summary: "Sauce crémeuse à l'avocat"
 tags:
  - condiment
  - vegan

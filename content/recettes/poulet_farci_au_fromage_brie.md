@@ -1,5 +1,6 @@
 ---
 title: "Poulet farci au fromage"
+summary: "Poulet avec du fromage coulant à l'intérieur"
 tags:
   - plat_principal
   - protéine_viande

@@ -1,5 +1,6 @@
 ---
 title: "Porotos granados"
+summary: "Fèves cuites dans un bouillon avec citrouille, carottes et maïs"
 tags:
  - plat_principal
  - plat_entrée

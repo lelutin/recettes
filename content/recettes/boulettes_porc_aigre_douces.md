@@ -1,5 +1,6 @@
 ---
 title: "Boulettes de porc aigre-douces"
+summary: "Viande en boulettes avec sauce aigre-douce, pour aller avec un accompagnement de légumes"
 tags:
  - plat_principal
  - protéine_viande

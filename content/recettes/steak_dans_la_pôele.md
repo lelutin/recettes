@@ -1,5 +1,6 @@
 ---
 title: "Steak cuit dans la poêle"
+summary: "Technique de base pour la cuisson d'un steak dans une poêle"
 tags:
  - plat_principal
  - protéine_viande

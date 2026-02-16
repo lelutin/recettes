@@ -1,5 +1,6 @@
 ---
 title: "Boeuf au broccoli"
+summary: "Bouchées de boeuf mariné avec brocoli dans une sauce salée"
 tags:
  - plat_principal
  - protéine_viande

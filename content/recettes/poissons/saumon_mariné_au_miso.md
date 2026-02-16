@@ -1,5 +1,6 @@
 ---
 title: "味噌サーモン (Saumon mariné au miso)"
+summary: "Saumon arômatisé au miso, puis grillé"
 tags:
  - plat_principal
  - protéine_poisson

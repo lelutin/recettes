@@ -1,5 +1,6 @@
 ---
 title: "Maïs fermenté"
+summary: "Maïs sûri par fermentation"
 tags:
  - condiment
  - vegan

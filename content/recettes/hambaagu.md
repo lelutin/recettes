@@ -1,5 +1,6 @@
 ---
 title: "ハンバーグ (Habaagu)"
+summary: "Boullette de hamburger avec une sauce au vin, servie sur du riz"
 tags:
  - plat_principal
  - protéine_viande

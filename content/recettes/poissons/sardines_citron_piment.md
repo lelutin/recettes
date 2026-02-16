@@ -1,5 +1,6 @@
 ---
 title: "Sardines au citron et piment"
+summary: "Sardines entières cuites au four au citron et piment"
 tags:
  - plat_principal
  - protéine_poisson

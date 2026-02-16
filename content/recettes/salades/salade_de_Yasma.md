@@ -1,5 +1,6 @@
 ---
 title: "Salade de Yasma"
+summary: "Salade de concombre, oignon, tomate et halloumi. Aussi connu comme salade tunisienne"
 tags:
  - plat_entrée
  - salade

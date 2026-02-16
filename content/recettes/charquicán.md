@@ -1,5 +1,6 @@
 ---
 title: "Charquicán"
+summary: "Amalgame réconfortant de courge, patates, maïs et petits pois"
 tags:
  - plat_principal
  - protéine_viande

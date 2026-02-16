@@ -1,5 +1,6 @@
 ---
 title: "Salade avec feta et oeufs brouillés"
+summary: "Une salade à manger à la cuiller"
 tags:
  - végétarien
  - salade

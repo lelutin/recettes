@@ -1,5 +1,6 @@
 ---
 title: "Soupe à la carotte, à l'orange et au gingembre"
+summary: "Une soupe un peu sucrée mais qui a du mordant"
 tags:
  - plat_entrée
  - vegan

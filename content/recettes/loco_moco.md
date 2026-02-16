@@ -1,5 +1,6 @@
 ---
 title: "Loco moco"
+summary: "Boulettes de viande avec un bouillon épaissi, servi avec un oeuf frit sur du riz"
 tags:
  - plat_principal
  - protéine_viande

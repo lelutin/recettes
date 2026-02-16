@@ -1,5 +1,6 @@
 ---
 title: "Spaghettoni con aglio e olio"
+summary: "Spaghetti avec une sauce qui se fait miraculeusement avec seulement de l'huile et de l'ail"
 tags:
  - plat_principal
  - provenance_italie

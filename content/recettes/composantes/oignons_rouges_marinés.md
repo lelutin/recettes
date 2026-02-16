@@ -1,5 +1,6 @@
 ---
 title: "Oignons rouges marinés"
+summary: "Moyen rapide d'avoir un contraste en acidité et en couleur"
 tags:
  - condiment
  - vegan

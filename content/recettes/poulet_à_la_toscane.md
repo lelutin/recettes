@@ -1,5 +1,6 @@
 ---
 title: "Poulet à la Toscane"
+summary: "Poulet cuit dans une sauce à la crème et aux tomates séchées"
 tags:
  - plat_principal
  - protéine_viande

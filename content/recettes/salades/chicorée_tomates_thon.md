@@ -1,5 +1,6 @@
 ---
 title: "Salade de chicorée avec tomates et thon"
+summary: "Superbe mélange de goûts dans une salade rapide à faire"
 tags:
  - plat_principal
  - plat_accompagnement

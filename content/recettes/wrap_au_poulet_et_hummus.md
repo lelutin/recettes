@@ -1,5 +1,6 @@
 ---
 title: "Wrap au poulet et hummus"
+summary: "Sandwitch poulet et hummus dans un tortila"
 tags:
  - plat_principal
  - protéine_viande

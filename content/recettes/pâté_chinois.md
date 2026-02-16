@@ -1,5 +1,6 @@
 ---
 title: "Pâté chinois"
+summary: "C'est presque comme un hachi parmentier, ou un shepard's pie .... mais pas tout à fait"
 tags:
  - plat_principal
  - protéine_viande

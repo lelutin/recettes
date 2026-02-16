@@ -1,5 +1,6 @@
 ---
 title: "Soupe au pistou de Nana"
+summary: "La soupe au pistou de mon enfance"
 tags:
  - plat_principal
  - protéine_légumineuse

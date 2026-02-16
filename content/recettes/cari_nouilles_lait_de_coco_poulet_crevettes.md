@@ -1,5 +1,6 @@
 ---
 title: "Cari aux nouilles, crevettes, poulet et lait de coco"
+summary: "Soupe au cari avec des nouilles très minces, crevettes et poulet"
 tags:
  - plat_principal
  - protéine_fruit_de_mer

@@ -1,5 +1,6 @@
 ---
-title: "Risotto aux champignons"
+title: "Risotto à quatre saveurs différentes"
+summary: "La base est la même, mais chaque choix de saveur donne un résultat totalement différent"
 tags:
  - plat_principal
  - fromage

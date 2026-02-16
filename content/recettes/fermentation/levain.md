@@ -1,5 +1,6 @@
 ---
 title: "Levain"
+summary: "Démarrage et alimentation d'un levain"
 tags:
  - ingrédient_intermédiaire
  - vegan

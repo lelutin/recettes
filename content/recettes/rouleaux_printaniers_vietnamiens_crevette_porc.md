@@ -1,5 +1,6 @@
 ---
 title: "Rouleaux printaniers vietnamiens avec crevettes et porc"
+summary: "Un plat qui se mange aussi bien frais préparé que dans un parc"
 tags:
  - plat_principal
  - plat_entrée

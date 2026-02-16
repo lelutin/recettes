@@ -1,5 +1,6 @@
 ---
 title: "Fettucine sauce crémeuse à l'ail"
+summary: "Des fettucine dans un sauce simple à la crème avec beaucoup d'ail et un peu de fromage"
 tags:
   - plat_principal
   - produit_laitier

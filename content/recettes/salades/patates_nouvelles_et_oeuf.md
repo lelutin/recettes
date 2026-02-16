@@ -1,5 +1,6 @@
 ---
 title: "Salade de patates nouvelles et oeufs"
+summary: "Salade froide crémeuse"
 tags:
  - plat_principal
  - plat_entrée

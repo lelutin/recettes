@@ -1,5 +1,6 @@
 ---
 title: "Huachinango a la veracruzana (vivaneau style Veracruz)"
+summary: "Poisson vivaneau cuit dans une sauce à la tomate"
 tags:
  - plat_principal
  - protéine_poisson

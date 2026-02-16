@@ -1,5 +1,6 @@
 ---
 title: "Oeufs braisés aux poireaux et za'atar"
+summary: "Des oeufs encore coulant avec des poireaux bien cuits relevés au za'atar"
 tags:
  - plat_principal
  - protéine_oeuf
@@ -56,3 +57,4 @@ Préparation:
 ## Références
 
 * [[ressources/ottolenghi_simple.md] page 14
+* <https://ottolenghi.co.uk/pages/recipes/braised-eggs-leek-zaatar>

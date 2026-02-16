@@ -1,5 +1,6 @@
 ---
 title: "Sauce fermentée de piment fort à l'ail"
+summary: "Sauce au piment en fermentation sauvage"
 tags:
  - condiment
  - sauce

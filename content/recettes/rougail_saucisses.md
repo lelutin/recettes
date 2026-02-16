@@ -1,5 +1,6 @@
 ---
 title: "Rougail à la saucisse"
+summary: "Saucisses dans une compote à la tomate"
 tags:
  - plat_principal
  - protéine_viande

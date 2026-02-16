@@ -1,5 +1,6 @@
 ---
 title: "Salade 'méditerranéenne' au faux féta"
+summary: "Feta et pois chiches sur plein de légumes"
 tags:
  - plat_principal
  - plat_entrée

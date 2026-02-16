@@ -1,5 +1,6 @@
 ---
 title: "Soupe au pistou de Gui"
+summary: "Une version de 'la vraie' soupe au pistou"
 tags:
  - plat_principal
  - protéine_légumineuse

@@ -1,5 +1,6 @@
 ---
 title: "Soda Xí Muội (soda à la prune confite)"
+summary: "Transformer une prune séchée en une boisson rafraîchissante"
 tags:
  - provenance_vietnam
 ---
