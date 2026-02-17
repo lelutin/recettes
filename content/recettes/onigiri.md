@@ -32,6 +32,15 @@ Différents fillings:
   * katsuo bushi, assez pour bien couvrir le mélange de mayo et thon
   * un filet de sauce soya
 * tsukemono, bien drainés et hachés fins (ou en format facile à croquer)
+* champignons salés sucrés et oignon vert
+  * 0.25 tasse champignons en dés
+  * 0.5 c. Table sauce soya
+  * 1 c. Table mirin
+  * 0.25 c. thé sucre
+  * 1 oignon vert émincé
+  * chauffer les champignons avec tout sauf les oignons vert jusqu'à ce que le
+    liquide soit absorbé et laisser refroidir. Combiner avec l'oignon vert avant
+    d'utiliser dans les onigiri
 
 Différentes sauces pour onigiri grillés:
 
@@ -104,3 +113,5 @@ Yaki onigiri:
 * <https://oceans-nadia.com/user/279721/recipe/392003>
 * <https://oceans-nadia.com/user/100063/recipe/368709>
 * <https://www.kyounoryouri.jp/recipe/7676_%E3%81%BF%E3%81%9D%E5%91%B3%E3%81%AE%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A.html>
+* <https://pickledplum.com/how-to-make-onigiri/> -- quelques trucs pratiques
+  pour mieux réussir et idées additionnelles de fillings
