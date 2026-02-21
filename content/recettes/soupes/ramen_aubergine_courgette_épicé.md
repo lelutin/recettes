@@ -14,18 +14,25 @@ tags:
 
 Donne 4 bols
 
-* dans un grand bol
-  * 1 grosse aubergine, coupée en cartiers, 1cm d'épaisseur
-    * ou coupée en bâtonnets, 0.5cm d'épaisseur et 3cm de long
-  * 3 zucchinis
-    * 0.5 zucchini coupé en allumettes, dans un autre petit bol (voir point
-      suivant)
-    * 2.5 coupés en cartiers, 1cm d'épaisseur
 * dans un petit bol avec les allumettes de zucchini
   * 3 c. Table vinaigre de riz
   * 1 c. thé sucre
   * 1 pincée de flocons de piments
-* 1 pincée de sel
+  * 1 pincée de sel
+* 1 bloc (400g) tofu ferme, pressé et tranché sur la longueur en tranches de
+  0.25 cm
+  * ou un bloc (225g) de tempeh, tranché mince sur la longueur
+* dans un petit bol - marinade pour le tofu
+  * 2 c. Table huile végétale
+  * 2 c. Table sauce soya
+  * 0.5 c. thé 5-épices
+* dans un grand bol
+  * 1 grosse aubergine, coupée en quatre, puis coupée rangiri en bouchées
+    * ou coupée en bâtonnets, 0.5cm d'épaisseur et 3cm de long
+  * 3 zucchinis
+    * 0.5 zucchini coupé en allumettes, dans un autre petit bol (voir point
+      suivant)
+    * 2.5 coupés rangiri en bouchées
 * dans un petit bol
   * 1 c. Table flocons de piments
   * 0.5 c. thé poivre de Széchuan
@@ -42,6 +49,8 @@ Donne 4 bols
   * idéalement un dashi aux champignons (voir p. 34 du même livre)
 * dans un petit bol
   * 70g tahini
+    * on peut remplacer par un autre beurre de noix comme du beurre d'amandes.
+      Par contre le goût est vraiment très différent.
   * 100g miso
 * 0.25 choux chinois, coupé en bouchées
 * 4 portions de nouilles ramen ou udon crues
@@ -54,30 +63,38 @@ Préparation:
 
 1. Mélanger les allumettes de zucchini avec le vinaire, le sucre, le sel et une
    pincée de flocons de piments. Laisser mariner.
-2. Dans une casserole moyenne à feu moyen, chauffer le mélange d'huiles avec le
+2. Dans une grande assiette ou un plat avec une bonne surface, couvrir le tofu
+   de marinade et bouger les morceaux pour que tout soit bien enduit. Laisser
+   mariner.
+3. Dans une grande casserole à feu moyen, chauffer le mélange d'huiles avec le
    poivre de Széchuan, l'ail, le gingembre et les flocons de piments. Laisser
    frétiller pendant environs 1 minute pour activer les arômes puis ajouter les
-   cartiers de zucchini et aubergine. Mélanger pour couvrir les morceaux de
-   légume d'huile.
-3. Couvrir et cuire en mélangeant occasionnellement jusqu'à ce que les légumes
+   zucchinis et l'aubergine. Mélanger pour couvrir les morceaux de légume
+   d'huile.
+4. Chauffer un peu d'huile à cuisson dans une poêle moyenne. Eponger les
+   tranches de tofu, légèrement saler les deux côtés et les déposer dans la
+   poêle. Laisser dorer le premier côté, environs 3 à 4 minutes, puis tourner
+   les morceaux. Laisser dorer le deuxième côté, environs 3 à 4 minutes. Retirer
+   du feu et réserver.
+5. Couvrir et cuire en mélangeant occasionnellement jusqu'à ce que les légumes
    soient mous, environs 15 minutes.
-4. Ajouter la sauce soya, le mirin et de la sauce piquante si désirée. Laisser
+6. Ajouter la sauce soya, le mirin et de la sauce piquante si désirée. Laisser
    cuire un autre 5 minutes.
-5. Pendant la cuisson, porter le dashi à petite ébullition. Incorporer le
+7. Pendant la cuisson, porter le dashi à petite ébullition. Incorporer le
    tahini et le miso en mélangeant pour qu'il n'y ait pas de grumeaux.
    * P-e plus simple: humidifier les deux dans un petit bol avec le dashi, une
      petite quantité à la fois en mélangeant jusqu'à ce que la consistance soit
      plutôt liquide, puis ajouter au bouillon et mélanger pour répandre.
-6. Remplir une grande casserole d'eau et l'amener à ébullition. Faire blanchir
+8. Remplir une casserole moyenne d'eau et l'amener à ébullition. Faire blanchir
    le choux, environs 1 minute. Réserver le choux.
-7. Porter l'eau à ébullition à nouveau et faire cuire les nouilles ramen
+9. Porter l'eau à ébullition à nouveau et faire cuire les nouilles ramen
    jusqu'à ce qu'elles soient aldente, selon les instructions. Egoutter les
    nouilles.
-8. Diviser les nouilles dans 4 bols profonds. Couvrir de bouillon
+10. Diviser les nouilles dans 4 bols profonds. Couvrir de bouillon
    dashi-miso-tahini et mélanger les nouilles dans le bouillon pour les
    décoller. Recouvrir des cartiers de légumes (avec toute l'huile), des
    graines de sésame, le zucchini mariné et décorer avec un peu d'oignon vert.
-9. Servir immédiatement.
+11. Servir immédiatement.
 
 ## Références
 
