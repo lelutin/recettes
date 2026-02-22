@@ -71,6 +71,13 @@ Congélation (pour utiliser plus tard):
   avant l'utilisation, puis laisser sur le comptoir 15 à 20 minutes avant la
   cuisson pour qu'il soit à température pièce quand on le cuit.
 
+Diminuer le sel un peu avant la cuisson:
+
+* Tremper dans une mixture de 2 parts de saké pour une part de mirin pedant
+  environs 3 heures au frigo.
+* Sortir le poisson du frigo 15 à 20 minutes avant la cuisson pour qu'il soit à
+  température pièce et bien l'éponger pour l'assécher avant la cuisson.
+
 Griller le poisson:
 
 * Placer une grille au centre du four et préchauffer le four à broil.
