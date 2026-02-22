@@ -80,15 +80,17 @@ Préparation:
 3. Quand le riz est assez refroidi pour le manipuler, séparer le riz en huit
    portions égales.
 4. Mouiller ses mains, déposer un huitième de cuiller à thé de sel dans une main
-   et frotter ses mains ensemble pour distribuer le sel. Prendre chaque portion
-   dans ses mains et compresser légèrement le riz. Former un puits dans le riz
-   et le remplir avec des ingrédients. Refermer le riz autour des ingrédients.
-   En mettant une main à plat et une pliée, former les trois coins du triangle
-   en compressant un peu le riz.
+   et frotter ses mains ensemble pour distribuer le sel. Prendre la moitié d'une
+   portion de riz dans ses mains, puis déposer un peu d'ingrédients au milieu.
+   Couvrir de l'autre moitié de riz. Compresser le riz pour qu'il tienne
+   ensemble et qu'il enferme les ingrédients. En mettant une main à plat et une
+   pliée, former les trois coins du triangle en compressant un peu le riz.
 5. Quand la forme est réussie, placer une feuille de nori sous le riz, environs
    au tiers de la feuille, et envelopper le riz en laissant une ouverture.
    Ajouter un peu d'ingrédient sur le dessus pour le goût en plus mais aussi
    pour aider à reconnaître lesquels ont quelle saveur.
+   * Pour que le nori reste croustillant, c'est mieux d'attendre juste avant le
+     service pour envelopper le riz.
    * Si on prévoit les conserver au frigo c'est mieux de ne pas faire cette
      étape là tout de suite mais plutôt juste avant de servir
 
@@ -110,6 +112,7 @@ Yaki onigiri:
 * <https://justhungry.com/2007/01/onigiri_omusubi_revisited_an_e.html>
 * <https://www.youtube.com/watch?v=gjTIoWFdvXc>
 * <https://www.youtube.com/watch?v=gXM5-GBmnOs>
+* <https://www.justonecookbook.com/onigiri-rice-balls/>
 * <https://oceans-nadia.com/user/279721/recipe/392003>
 * <https://oceans-nadia.com/user/100063/recipe/368709>
 * <https://www.kyounoryouri.jp/recipe/7676_%E3%81%BF%E3%81%9D%E5%91%B3%E3%81%AE%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A.html>
