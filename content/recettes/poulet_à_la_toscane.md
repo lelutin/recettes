@@ -33,6 +33,10 @@ Donne 4 à 6 portions
   * ~10 champignons blancs, tranchés en lamelles
 * 4~5 tiges oignon vert, tranchées mince
 * 6~7 tomates séchées, en petits dés
+  * On peut les faire tremper dans l'eau environs 10 minutes avant la cuisson
+    mais le plat final goûte beaucoup moins les tomates. Je trouve ça meilleur
+    quand les tomates ne sont pas trempées et qu'elles relâchent tout leur goût
+    dans le bouillon
 * huile d'olive
   * (facultatif) + beurre
 * (facultatif) une lichette de cognac
