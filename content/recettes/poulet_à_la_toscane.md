@@ -28,9 +28,10 @@ Donne 4 à 6 portions
   * 1 petit oignon rouge, en petits dés
   * 1 poivron rouge, en petits dés
   * 1 poivron jaune, en petits dés
-* 5 à 7 gousses d'ail, hachées grosso-modo
+* dans un bol moyen
+  * 5 à 7 gousses d'ail, hachées grosso-modo
+  * ~10 champignons blancs, tranchés en lamelles
 * 4~5 tiges oignon vert, tranchées mince
-* ~10 champignons blancs, tranchés en lamelles
 * 6~7 tomates séchées, en petits dés
 * huile d'olive
   * (facultatif) + beurre
@@ -64,15 +65,15 @@ Préparation:
 5. (facultatif) Flamber au cognac.
 6. Placer le poulet dans un contenant qui va au four, et enfourner. Retirer du
    four après 10 minutes.
-7. Ajouter les oignons et poivrons dans la poêle. Faire suer le tout.
-8. Ajouter les champignons à la poêle. Ajouter l'ail. Laisser suer les
+7. Faire bouillir un chaudron d'eau salée pour les pâtes. Quand l'eau bouille
+   ajouter le bouquet garni et les pâtes.
+8. Ajouter les oignons et poivrons dans la poêle. Faire suer le tout.
+9. Ajouter les champignons à la poêle. Ajouter l'ail. Laisser suer les
    champignons.
-9. Incorporer les tomates séchées et les épinards. Saler au goût.
-10. Ajouter un fond de bouillon de poulet. Poivrer au goût.
-11. Ajouter la crème à la poêle. Saupoudrer de parmesan. Baisser le feu à
+10. Incorporer les tomates séchées et les épinards. Saler au goût.
+11. Ajouter un fond de bouillon de poulet. Poivrer au goût.
+12. Ajouter la crème à la poêle. Saupoudrer de parmesan. Baisser le feu à
     moyen-doux et laisser mijoter.
-12. Faire bouillir un chaudron d'eau salée pour les pâtes. Quand l'eau bouille
-    ajouter le bouquet garni et les pâtes.
 13. Quand les 10 minutes du poulet sont écoulées, sortir le poulet du four en
     faire des tranches minces coupées en bouchées (e.g. en 2 ou 3) puis
     transférer dans la poêle. Tourner le poulet dans la sauce pour bien
