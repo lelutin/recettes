@@ -26,7 +26,7 @@ Donne 6 portions
   * 0.5 c. thé sel
   * 0.5 c. thé paprika fumé
 * dans un bol moyen
-  * 1 boîte tomates broyées (ou en dés)
+  * 1 boîte (800ml) tomates broyées (ou en dés)
   * 2 c. thé cassonade
   * 0.75 c. thé poivre de cayenne
   * 1 feuille de laurier
