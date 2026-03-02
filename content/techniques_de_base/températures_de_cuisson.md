@@ -14,9 +14,14 @@ tags:
 Températures internes de cuisson selon la viande et le type de morceau:
 
 * poissons
-  * saumon: 125°F (52°C) -- mais conserver le poisson à cette température là
-    quelques minutes
-* TODO: ajouter différentes sortes de viandes
+  * saumon: 70°C (168°F)
+    * ou 52°C (125°F) -- mais conserver le poisson à cette température là
+      quelques minutes
+* poulet: 75°C (165°F)
+* porc: 71°C (160°F)
+* viande hachée: 71°C (160°F)
+* viande rouge: 63°C (145°F) saignant ; 71°C (160°F) médium ; 77°C (170°F) bien
+  cuit
 
 ## Références
 
