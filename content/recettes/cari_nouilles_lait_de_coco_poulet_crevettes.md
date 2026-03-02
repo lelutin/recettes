@@ -19,8 +19,9 @@ tags:
 
 Donne 4 portions
 
-* 4 tasses bouillon de poulet
-* 2 poitrines de poulet, coupées en cubes moyens
+* 3 tasses bouillon de poulet
+* 1 poitrine de poulet
+  * On peut remplacer le poulet par environs 1 oeuf dur par personne
 * 225g crevettes, pelées et déveinées
   * si moins que 4 portions sont servies, réduire selon le nb de portions
 * dans un bol moyen
@@ -30,10 +31,12 @@ Donne 4 portions
   * 1 c. Table sauce de poisson
 * 4 carrés de nouilles ramen
   * ou moins selon combien de portions sont servies
-* 1 lime, coupée en cartiers
 
 Décorations:
 
+* 1 lime, coupée en cartiers
+* kamaboko (fishcake)
+* boulettes de tofu frit
 * basilic Thaï
 * piments Thaï, tranchés mince
 * oignons verts, tranchés mince
@@ -61,25 +64,21 @@ Servir avec un accompagnement de légumes.
 
 Préparation:
 
-1. Dans une grande casserole, amener le bouillon à ébullition.
-2. Dans une grande poêle à feu élevé, ajouter un peu d'huile puis faire brunir
-   les cubes de poulet, environs 5 minutes. Transférer dans une assiette au
-   chaud.
-   * On peut aussi faire bouillir le poulet dans le bouillon et le retirer
-     quand il est assez cuit. Il faut alors le conserver au chaud en attendant
-     la fin de la cuisson.
-3. Ajouter les crevettes au bouillon et les faire cuire, environs 2 minutes,
+1. Dans une grande casserole, amener le bouillon à ébullition. Placer le poulet
+   dans le bouillon et réduire le feu pour garder un bouillon léger. Laisser
+   bouillir le poulet jusqu'à ce qu'il soit cuit (75°C), environs 10 minutes.
+   Sortir le poulet dans une assiette et déchiqueter la viande.
+2. Ajouter les crevettes au bouillon et les faire cuire, environs 2 minutes,
    puis les transférer dans l'assiette avec le poulet.
-4. Ajouter au bouillon le lait de coco, l'ail, la pâte de cari et la sauce de
+3. Ajouter au bouillon le lait de coco, l'ail, la pâte de cari et la sauce de
    poisson. Mélanger jusqu'à ce que la pâte de cari soit bien diluée. Réduire
    à feu doux et laisser mijoter pendant 15mins.
-5. Dans une casserole moyenne, amener de l'eau à ébullition et faire cuire les
+4. Dans une petite casserole, amener de l'eau à ébullition et faire cuire les
    nouilles.
-6. Séparer les nouilles en 4 bols. Couvrir de crevettes et poulet. Recouvrir de
+5. Séparer les nouilles en 4 bols. Couvrir de crevettes et poulet. Recouvrir de
    bouillon au goût. Ajouter les décorations puis servir avec des cartiers de
    lime.
 
 ## Références
 
 * <https://rasamalaysia.com/coconut-curry-noodle-bowl/>
-
