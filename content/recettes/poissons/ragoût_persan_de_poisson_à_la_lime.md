@@ -17,7 +17,7 @@ Donne 2 portions
 * dans un gros mortier ou robot culinaire
   * 3 gousses d'ail, émincées très finement
     * si on utilise un robot culinaire on peut simplement trancher mince
-  * 5cm (2-inch) gingembre, épluché et émincé très fin
+  * 5cm (2-inch) gingembre, épluché et haché très fin
     * si on utilise un robot culinaire on peut simplement trancher mince
   * 0.75 c. thé curcuma
   * 1 c. thé sel
