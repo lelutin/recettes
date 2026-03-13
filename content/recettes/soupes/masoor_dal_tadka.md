@@ -43,14 +43,16 @@ Deuxième vague d'épices:
 
 * 2 c. thé huile à cuisson
 * 0.5 c. thé graines de cumin entières
-* 2 feuilles de laurier
-* 2 piments vert indiens, tranchés mince
-  * ou piments serrano, ou autre piment relativement doux
-* 0.5 c. thé feuilles de fenugrec (kasuri methi) séchées
-* 1 gousse d'ail, en juliennes
-* 1.25 cm gingembre, émincé ou en juliennes
-* 0.25 c. thé paprika
-* une pincée de clou de girofle moulu
+* dans un petit bol
+  * 2 feuilles de laurier
+  * 2 piments vert indiens, tranchés mince
+    * ou piments serrano, ou autre piment relativement doux
+  * 0.5 c. thé feuilles de fenugrec (kasuri methi) séchées
+  * 1 gousse d'ail, en juliennes
+  * 1.25 cm gingembre, émincé ou en juliennes
+* dans un petit bol
+  * 0.25 c. thé paprika
+  * une pincée de clou de girofle moulu
 * coriandre hachée et jus de citron pour la décoration
 
 ## Instructions
@@ -87,9 +89,9 @@ Préparation du dal:
    d'huile à feu moyen doux. Quand l'huile est chaude, ajouter les graines de
    cumin et ajouter qu'elles changent légèrement de couleur et que leur odeur se
    dégage.
-8. Ajouter les feuilles de laurier, le piment, le fenugrec et le gingembre et
-   cuire en mélangeant jusqu'à ce que le piment et l'ail soient légèrement
-   dorés.
+8. Ajouter les feuilles de laurier, le piment, le fenugrec, l'ail et le
+   gingembre et cuire en mélangeant jusqu'à ce que le piment et l'ail soient
+   légèrement dorés.
 9. Ajouter le paprika et le clou de girofle et tout de suite retirer du feu.
    Incorporer les oignons qui étaient réservés et bien mélanger. Retirer les
    feuilles de laurier.
