@@ -61,14 +61,13 @@ Préparation:
 2. Préparer la salade: couper le choux et les concombres très minces puis
    combiner avec un peu de vinaigrette, si utilisée, en mélangeant doucement.
    Conserver au frigo jusqu'au moment de servir.
-3. Préparer la viande: à l'aide d'un couteau, retirer l'excédent de gras. On
-   veut conserver seulement environs 0.25 à 0.5cm de gras à l'extérieur de la
-   viande. Faire des entailles dans la viande entre le gras et la chair pour
-   éviter que la viande ne se contracte et se torde pendant la friture. Faire la
-   même chose de l'autre côté de la viande. Finalement, aplatissez la viande des
-   deux côtés à l'aide d'un attendrisseur à viande ou encore le dos couteau
-   (l'inverse de la lame) et avec les mains ramener la viande à sa forme
-   originale, moins étalée.
+3. Préparer la viande: Faire des entailles dans la viande entre le gras et la
+   chair pour éviter que la viande ne se contracte et se torde pendant la
+   friture. Faire la même chose de l'autre côté de la viande. Avec une
+   fourchette, percer légèrement la viande un peu partout. Finalement, aplatir
+   la viande des deux côtés à l'aide d'un attendrisseur à viande ou encore le
+   dos couteau (l'inverse de la lame) et avec les mains ramener la viande à sa
+   forme originale, moins étalée.
 4. Saler et poivrer légèrement un côté de la viande. Tapoter la viande pour
    faire coller le sel et le poivre. Etaler un peu de farine des deux côtés de
    la viande et tapoter à viande pour enlever l'excédent. Plonger la viande dans
@@ -97,6 +96,7 @@ Préparation:
 ## Références
 
 * <https://www.justonecookbook.com/tonkatsu/>
+* <https://www.youtube.com/watch?v=hWAtRTIbO_8>
 * <https://www.youtube.com/watch?v=0niPN3BjCss>
 * Recette de katsudon mais avec truc pour utiliser moins d'huile:
   <https://www.youtube.com/watch?v=SZl14OiKdvE>
