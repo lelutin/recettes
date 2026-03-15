@@ -23,14 +23,16 @@ Les tranches de tonkatsu:
   * sans os, bien sûr
 * sel
 * poivre
-* environs 1.5 tasses panko légèrement humidifié
 * sauce tonkatsu achetée ou faite maison
 
-Pâte à frire:
+Panure:
 
-* dans un bol
-  * 2 c. Table farine à gâteau, ou farine tout usage
+* environs 1.5 tasses panko, légèrement humidifié
+* dans un bol, tout mélanger ensemble
+  * 1 oeuf, battu
   * 2 c. Table eau
+  * 4 c. Table farine à gâteau, ou farine tout usage
+  * 1 c. thé huile à cuisson
 
 Sauce katsudon maison (pour environs 2 à 3 portions):
 
@@ -68,11 +70,13 @@ Préparation:
    (l'inverse de la lame) et avec les mains ramener la viande à sa forme
    originale, moins étalée.
 4. Saler et poivrer légèrement un côté de la viande. Tapoter la viande pour
-   faire coller le sel et le poivre. Etendre la pâte sur une des faces et les
-   côtés de la viande, placer le côté de la viande avec la pâte dans le panko
-   et étaler de la pâte sur l'autre côté de la viande. Recouvrir bien au
-   complet la viande de panko (les côtés aussi). Retourner le morceau et
-   couvrir de panko à nouveau pour s'assurer d'en avoir partout
+   faire coller le sel et le poivre. Etaler un peu de farine des deux côtés de
+   la viande et tapoter à viande pour enlever l'excédent. Plonger la viande dans
+   le mélange à pâte et s'assurer qu'il soit bien recouvert partout. Placer la
+   viande dans le panko et le recouvrir de panko. Appuyer légèrement sur la
+   viande pour que le panko colle bien en place.
+   * Au lieu de plonger la viande dans la pâte on peu aussi étendre la pâte sur
+     la viande à l'aide d'un pinceau.
 5. Chauffer un fond d'huile dans une poêle (environs 4 c. Table ou 0.5cm).
    Placer la viande dans l'huile. De temps en temps, brasser légèrement la poêle
    de temps en temps pour que tout le dessous soit bruni égal et avec une
@@ -86,9 +90,13 @@ Préparation:
    large.
 7. Servir: Disposer tous les ingrédients dans une assiette. Arroser la viande de
    sauce.
+   * Pour faire plus beau dans l'assiette, on peut prendre le temps de former
+     une boule de choux (pas trop écrasée) dans la main pour que le choux se
+     tienne en place dans l'assiette et ait plus de volume.
 
 ## Références
 
 * <https://www.justonecookbook.com/tonkatsu/>
+* <https://www.youtube.com/watch?v=0niPN3BjCss>
 * Recette de katsudon mais avec truc pour utiliser moins d'huile:
   <https://www.youtube.com/watch?v=SZl14OiKdvE>
