@@ -17,7 +17,7 @@ draft: false
 
 Donne 2 portions
 
-Tonkatsu: voir [tonkatsu](tonkatsu) sans la salade
+Tonkatsu: voir {{< ref "tonkatsu.md" >}} sans la salade
 
 Dashi tamago (Oeuf avec bouillon dashi):
 
@@ -53,7 +53,7 @@ Préparation:
    diluer la fécule.  Ajouter le mélange de fécule aux oeufs. Avec des
    baguettes, dissoudre d'abord le sucre et ensuite bien mélanger tous les
    ingrédients
-2. Préparer les tranches de tonkatsu, voir [tonkatsu](tonkatsu)
+2. Préparer les tranches de tonkatsu, voir {{< ref "tonkatsu.md" >}})
 3. Préparer un bol de riz
 4. Chauffer 1 c. Table d'huile à feu élevé dans une poêle à frire. Mélanger les
    oeufs pour redistribuer la fécule dans tout le mélange, tester la
