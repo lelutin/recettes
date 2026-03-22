@@ -41,6 +41,8 @@ Différents fillings:
   * chauffer les champignons avec tout sauf les oignons vert jusqu'à ce que le
     liquide soit absorbé et laisser refroidir. Combiner avec l'oignon vert avant
     d'utiliser dans les onigiri
+* furikake
+* tsukudani
 
 Différentes sauces pour onigiri grillés:
 
