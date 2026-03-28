@@ -17,7 +17,7 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 8 bols
 
 * 1 c. Table huile d'olive
   * ou pour un version non végétarienne: 4 tranches bacon épais, en petites tranches
