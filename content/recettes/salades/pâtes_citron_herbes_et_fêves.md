@@ -16,7 +16,8 @@ tags:
 Donne 2 portions comme plat principal, ou 8 à 10 portions en entrée
 
 * 450g pâtes courtes sèches
-* 340g fèves françaises ou pois mange-tout, équeutées et coupées en deux
+* 340g fèves françaises, équeutées et coupées en deux
+  * ou pois mange-tout
 * dans un grand bol
   * 0.5 tasse herbes hachées grossièrement (origan, menthe, basilic, persil, thym)
 * 1 citron moyen

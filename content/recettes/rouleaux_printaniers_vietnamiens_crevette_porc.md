@@ -19,12 +19,12 @@ tags:
 
 Donne TODO
 
-* 0.5 lb porc (filet, épaule ou poitrine)
+* 225g porc (filet, épaule ou poitrine)
 * 1 c. thé sucre
 * 1 pincée sel
-* 0.5 lb crevettes, décortiquées et déveinées
+* 225g crevettes, décortiquées et déveinées
 * 2 branches citronnelle, concassées (optionnel)
-* 4 oz. vermicelles de riz
+* 110g vermicelles de riz
 * 4 feuilles de papier de riz 8.5 pouces
 * 6 feuilles lettue (iceberg ou romaine), coupées en deux sur le long
 * 1 tasse carottes, coupées en bâtonnets (on peut le faire à la mandoline)

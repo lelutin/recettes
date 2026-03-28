@@ -25,12 +25,13 @@ Sauce à base de sauce de poisson:
 * 1 lime, pressée pour le jus
 * 1.5 c. thé gingembre, haché finement
 * 0.5 c. thé piment thai, tranché mince
-* set et poivre
+* sel et poivre
 
 Sauce Hoisin et arachides:
 
 * 5 c. Table sauce hoisin
 * 3 c. Table bouillon de porc
+  * ou eau
 * 1 c. Table beurre d'arachide
 * 1 c. Table ail, haché finement
 * 1 c. thé huile végétale
