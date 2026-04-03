@@ -28,6 +28,8 @@ Donne 2 portions comme plat principal, ou 8 à 10 portions en entrée
   * 0.75 c. thé sel cachère, un peu plus pour décorer les pâtes
   * 0.25 c. thé poivre noir, fraîchement moulu
 * 0.25 tasse Pecorino Romano, râpé finement
+* 0.5 tasse de noix, grossièrement concassées si elles sont grosses
+  * cachous, pin, grenoble ou graines de citrouille
 
 ## Notes
 
