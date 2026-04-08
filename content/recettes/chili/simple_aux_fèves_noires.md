@@ -12,17 +12,19 @@ tags:
 
 ## Ingrédients
 
-* 1 c. Table graines de moutarde
-* 2 c. thé graines de cumin
+* dans un petit bol
+  * 1 c. Table graines de moutarde
+  * 2 c. thé graines de cumin
 * 3 c. Table huile végétale
 * dans un bol moyen
   * 1 oignon moyen, en cubes moyen
   * 450g champignons blancs, hachés grossièrement
-* 1 c. Table de pâte de tomates
 * dans un petit bol
   * 9 gousses d'ail, émincées ou pressées
-  * 1 c. Table piment chipotle (environs 1 piment), émincés
-* 3 c. Table poudre de chili
+  * 2 c. Table piment chipotle (environs 2 piments), émincés
+* dans un petit bol
+  * 1 c. Table de pâte de tomates
+  * 3 c. Table poudre de chili
 * dans un grand bol
   * 2.5 tasses bouillon de légumes
   * 2.5 tasses eau
@@ -33,6 +35,9 @@ tags:
 * dans un bol moyen
   * 1 boîte (800 ml) tomates concassées
   * 2 poivrons rouges, coupés en carrés d'1.25 cm
+  * 2 c. Table flocons de piment
+  * 2 c. Table poudre de chili
+  * 1 c. Table sel
 * 0.5 tasse coriandre fraîche, hachée mince
 * sel et poivre
 
