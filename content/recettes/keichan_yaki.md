@@ -28,10 +28,11 @@ Sauce pour mariner, dans un bol moyen:
 
 Autres ingrédients:
 
-* 150g (environs 1/4) choux, en bouchées ou gros dés
 * 100g (1 moyen) oignon, en dés moyens
-* (optionnel) 4 shiitake, coupés en quatre
-  * ou autre champignon au goùt, coupés en bouchées
+* dans un bol moyen
+  * 150g (environs 1/4) choux, en bouchées ou gros dés
+  * (optionnel) 4 shiitake, coupés en quatre
+    * ou autre champignon au goùt, coupés en bouchées
 
 Servir avec du riz et un petit bol de soupe
 
