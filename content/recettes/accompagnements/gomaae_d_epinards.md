@@ -14,61 +14,65 @@ tags:
 
 ## Ingrédients
 
-Donne X portions
+Donne 4 portions
 
-For the Sauce
+Sauce:
 
-* 3 Tbsp toasted white sesame seeds
-* 1 Tbsp soy sauce
-* 1 Tbsp sugar
+* 3 c. Table graines de sésame blanches grillées
+* 1 c. Table sauce soya
+* 1 c. Table sucre
 
-For the Spinach
+Epinard:
 
-* 1 tsp Diamond Crystal kosher salt (for blanching)
-* 227 g spinach (8 oz, 227 g)
+* 1 c. thé sel
+* 227 g épinards frais
 
 ## Notes
 
-* You can keep the leftovers in an airtight container and store in the
-  refrigerator for 2–3 days or freezer for 2–4 weeks.
+* Les restants peuvent être conservés dans un récipient hermétique dans le frigo
+  pendant 2 à 3 jours, ou au congélateur jusqu'à 2 à 4 semaines.
 
 ## Instructions
 
 Préparation:
 
-1. Gather all the ingredients. Bring a large pot of water to a boil. Prepare a
-   large bowl of cold water with ice cubes.
+1. Dans une grande casserole, amener environs 1L d'eau à ébullition. Préparer un
+   bol d'eau avec des glaçons.
 
-To Make the Sauce
+Faire la sauce:
 
-* Even though your sesame seeds are pre-toasted, we will freshly toast them now
-  to enhance their nutty aroma. Add 3 Tbsp toasted white sesame seeds to an
-  ungreased frying pan and turn on the stove to medium-high heat. Once the pan
-  is hot, lift it up and shake it constantly over the flame. Toss and turn over
-  the sesame seeds in the pan to evenly toast them. When they are fragrant, turn
-  off the heat and move the pan off the stove.
-* Transfer the toasted sesame seeds to a mortar (suribachi). Grind them with a
-  pestle (surikogi). Leave some seeds whole for texture.
-* To the ground sesame seeds, add 1 Tbsp soy sauce and 1 Tbsp sugar and mix it
-  all together. Set aside.
+* Dans une petite poêle, chauffer les graines de sésame sans huile. Une fois que
+  la poêle est chaude, brasser constamment pour chauffer tous les côtés des
+  graines. Chauffer jusqu'à ce que leur arôme commence à se dégager, environs 1
+  à 2 minutes. Retirer du feu. Laisser refroidir 5 minutes.
+* Transférer les graines de sésame dans un mortier (suribachi si disponible,
+  sinon un mortier sans relief fonctionne aussi). Ecraser les graines au pilon
+  jusqu'à ce que ça donne une genre de pâte mais avec encore quelques morceaux
+  de graines dedans.
+* Mélanger la sauce soya et le sucre.
 
-To Cook the Spinach
+Cuire les épinards:
 
-* Once the water is boiling, add 1 tsp Diamond Crystal kosher salt. Add 227 g
-  spinach to the boiling water, stem side first, and cook for 20 seconds, as the
-  stems take longer to cook.
-* Then, gently push the leafy part into the water and cook for 30–45 seconds.
-* Transfer the spinach from the pot and plunge it into the iced bath to stop the
-  cooking for 1 minute.
+* Une fois que l'eau bout ajouter le sel. Ensuite plonger les épinards dans
+  l'eau
+  * si les feuilles ont une tige relativement grosse, plonger les feuilles tige
+    vers le bas et cuire environs 20 secondes.
+* Appuyer sur les épinards pour les plonger dans l'eau et laisser cuire un autre
+  30 à 45 secondes.
+* Transférer les épinards dans le bol d'eau froide pour arrêter la cuisson et
+  laisser refroidir 1 minute.
 
-To Assemble
+Assemblage:
 
-* Once the spinach is cool enough to handle, collect the spinach and squeeze the
-  water out. Tip: Do not leave the spinach in the water for too long or else it
-  will lose nutrients.
-* Cut the spinach into 1-inch (2.5 cm) lengths and put it in the mortar. If your
-  mortar is small, transfer the sesame dressing and spinach to a bowl.
-* Toss it all together. Serve at room temperature or chilled.
+* Prendre les épinards dans ses mains et presser les feuilles pour extraire
+  l'excédent de liquide.
+  * On ne veut pas laisser les feuilles dans l'eau trop longtemps parce qu'elles
+    vont commencer à perdre des nutriments.
+* Couper les épinards en blocs de 2.5cm puis placer dans le mortier.
+  * Si votre mortier est petit, plutôt transférer les épinards et les graines de
+    sésame dans un bol.
+* Mélanger pour bien recouvrir les ingrédients de sésame. Servir à température
+  ambiante.
 
 ## Références
 
