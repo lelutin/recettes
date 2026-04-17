@@ -4,6 +4,7 @@ summary: "Délicieux mélange d'épices, et sauce épicée aux cacahuètes"
 tags:
  - plat_principal
  - protéine_soya
+ - vegan
 ---
 
 * [Ingrédients](#ingrédients)
