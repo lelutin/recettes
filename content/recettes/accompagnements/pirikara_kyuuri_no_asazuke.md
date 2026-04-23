@@ -16,16 +16,18 @@ tags:
 
 Donne 3 portions
 
-* 2 concombres japonais ou 3 concombres libanais
-* 0.5 c. thé sel cachère
-* 0.5 c. thé graines de sésame blanc grillées (pour le service)
-
 Pour l'assaisonnement:
 
 * 2 c. Table sauce soya
 * 1 c. Table huile de sésame
 * 0.5 c. thé sucre
 * 0.5 c. thé la-yu (huile de piment japonaise)
+
+Concombres:
+
+* 2 concombres japonais ou 3 concombres libanais
+* 0.5 c. thé sel cachère
+* 0.5 c. thé graines de sésame blanc grillées (pour le service)
 
 ## Notes
 
