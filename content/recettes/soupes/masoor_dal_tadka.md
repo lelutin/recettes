@@ -60,7 +60,7 @@ Deuxième vague d'épices:
 Préparation du dal:
 
 1. Rincer les lentilles et laisser tremper 10 minutes. Drainer, puis ajouter
-   dans une casserole moyenne avec l'eau, le sel et le curcuma. Courir
+   dans une casserole moyenne avec l'eau, le sel et le curcuma. Couvrir
    partiellement et cuire à feu moyen jusqu'à ce que les lentilles aient la
    texture désirée -- qui s'écrase bien mais conserve un peu de consistance --
    environs 10 à 15 minutes.
@@ -87,7 +87,7 @@ Préparation du dal:
    Transférer dans un bol pour le service.
 7. Préparer le deuxième assaisonnement: Dans une petite poêle, chauffer un peu
    d'huile à feu moyen doux. Quand l'huile est chaude, ajouter les graines de
-   cumin et ajouter qu'elles changent légèrement de couleur et que leur odeur se
+   cumin et attendre qu'elles changent légèrement de couleur et que leur odeur se
    dégage.
 8. Ajouter les feuilles de laurier, le piment, le fenugrec, l'ail et le
    gingembre et cuire en mélangeant jusqu'à ce que le piment et l'ail soient
