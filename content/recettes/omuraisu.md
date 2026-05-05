@@ -21,7 +21,7 @@ Donne 2 portions
 * 1 petit oignon haché fin
 * 1 poitrine de poulet, coupée en petits cubes (entre 0.5 et 1cm)
 * beurre
-* ketchup
+* 4 c. Table (0.25 tasse) ketchup plus décoration
 * 6 gros oeufs, séparés en 2 bols, fouettés pour rendre homogènes et
   assaisonnés avec un peu de sel et poivre
 * sel et poivre
