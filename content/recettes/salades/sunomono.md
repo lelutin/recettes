@@ -15,17 +15,19 @@ tags:
 
 Donne 4 portions
 
-* 2–3 concombres (environs 300g) japonais ou libanais
-* 1 c. thé sel cachère
-* 1 c. Table wakame
-* 0.5 c. Table graines de sésame blanc
-
 Vinaigrette:
 
 * 0.25 tasse (60ml) vinaigre de riz
 * 2 c. Table sucre
 * 0.5 c. thé sel cachère
 * 0.5 c. thé sauce soya
+
+Salade:
+
+* 2–3 concombres (environs 300g) japonais ou libanais
+* 1 c. thé sel cachère
+* 1 c. Table wakame
+* 0.5 c. Table graines de sésame blanc
 
 ## Instructions
 
