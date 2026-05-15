@@ -34,7 +34,7 @@ Panure:
   * 4 c. Table farine à gâteau, ou farine tout usage
   * 1 c. thé huile à cuisson
 
-Sauce katsudon maison (pour environs 2 à 3 portions):
+Sauce tonkatsu maison (pour environs 2 à 3 portions):
 
 * 1 c. thé miel (légèrement plus qu' 1 c. thé)
 * 0.5 c. Table sauce soya
