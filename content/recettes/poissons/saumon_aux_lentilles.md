@@ -63,8 +63,9 @@ Préparation:
      que ce qu'on mangerait.
 8. Allumer le feu sous la poêle à medium-fort. Laisser chauffer le poisson
    jusqu'à ce que la peau soit dorée, environs 8 minutes. Ensuite tourner le
-   poisson et cuire jusqu'à 125°F, environs 5 minutes. Sortir le poisson dans un
-   assiette en attendant que les lentilles soient prêtes.
+   poisson et cuire jusqu'à une température interne de 125°F, environs 5
+   minutes. Sortir le poisson dans un assiette en attendant que les lentilles
+   soient prêtes.
 9. Quand la cuisson des lentilles est terminée, ajouter le vinaigre de xérès, la
    moutarde de Dijon et l'huile d'olive.
 10. Servir un lit de lentilles dans des assiettes puis placer le saumon peau
@@ -72,4 +73,4 @@ Préparation:
 
 ## Références
 
-* <https://www.youtube.com/watch?v=I8aRLeg7_So>
+* <https://www.americastestkitchen.com/recipes/15479-saumon-aux-lentilles-pan-seared-salmon-with-braised-lentilles-du-puy>
