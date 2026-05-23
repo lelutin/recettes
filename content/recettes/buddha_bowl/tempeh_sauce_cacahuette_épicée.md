@@ -15,10 +15,10 @@ tags:
 
 Donne 4 portions
 
-* riz blanc, cuit
+* millet, cuit
   * ou quinoa
   * ou orge
-  * ou millet
+  * ou riz blanc
 * dans un contenant plat
   * 2 c. Table huile de cacahuètes ou végétale
   * 2 c. Table sauce soya
