@@ -23,6 +23,7 @@ Pâte:
 * 375ml eau, à température ambiante
 * 10g sel
 * 600g farine type "00" (farine à pizza)
+  * ou farine tout usage
 * 1g (1/8 c. thé) levure déshydratée
 
 Garniture:
