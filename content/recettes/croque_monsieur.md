@@ -83,3 +83,6 @@ Croque monsieur:
 
 * <https://ici.radio-canada.ca/mordu/recettes/5825/croque-monsieur-classique>
 * <https://www.ricardocuisine.com/recettes/4898-croque-monsieur>
+* <https://www.youtube.com/watch?v=Mev_EZ030nc>
+  * quelques trucs utiles comme la texture de la sauce Mornay et son truc pour
+    faire brunir le pain avec du beurre.
