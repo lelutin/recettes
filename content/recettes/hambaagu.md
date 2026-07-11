@@ -23,6 +23,8 @@ Donne 2 portions de 2 boulettes
 
 Boulettes:
 
+* 1/2 oignon moyen, haché très finement
+* huile à cuisson
 * dans un grand bol
   * 1 tasse croûtons de pain sans croûte, en petits cubes
     * si les croûtons sont trop gros, ça donne une texture vraiment irrégulière
@@ -35,8 +37,6 @@ Boulettes:
   * 3/4 c. thé sel
   * 1/2 c. thé poivre noir
   * 1/4 c. thé muscade râpée
-* 1/2 oignon moyen, haché très finement
-* huile à cuisson
 
 Sauce:
 
@@ -65,11 +65,10 @@ Préparation:
    appuyer au centre avec le pouce pour former un petit creux (pour s'assurer
    que la boulette ne devienne pas une boule en rétrécissant à cause de la
    cuisson)
-4. Dans une grande poêle, chauffer de l'huile à feu élevé. Placer les boulettes
-   dans la poêle, en les séparant l'une de l'autre, et faire saisir la viande.
-   Tourner les boulettes et diminuer la chaleur à feu doux puis couvrir la
-   poêle. Laisser cuire à la vapeur pendant 10 minutes. Mettre de côté et
-   garder au chaud.
+4. Dans une grande poêle à feu élevé, placer les boulettes dans la poêle, en les
+   séparant l'une de l'autre, et faire saisir la viande. Tourner les boulettes
+   et diminuer la chaleur à feu doux puis couvrir la poêle. Laisser cuire à la
+   vapeur pendant 10 minutes. Mettre de côté et garder au chaud.
 5. Vider l'excédent d'huile de la poêle. Mettre la poêle à feu vif à nouveau.
    Ajouter le vin pour déglacer et frotter le fond pour récupérer la viande
    caramélisée. Incorporer le ketchup et la sauce tonkatsu au vin.
@@ -79,4 +78,3 @@ Préparation:
 ## Références
 
 * <https://justhungry.com/hambaagu-or-hambaagaa-japanese-hamburgers>
-
