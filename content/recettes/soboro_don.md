@@ -33,7 +33,7 @@ Donne 2 portions
 ## Notes
 
 * Peut être servi avec un accompagnement de soupe miso.
-* Généralement fait avec du poulet haché, mais du porc fonctionne aussi
+* Généralement fait avec du boeuf haché, mais du porc fonctionne aussi
 * Pour utiliser dans un bento, les oeufs devraient être complètement cuits
   (donc pas d'humidité visible sur les oeufs dans la poêle).
 
@@ -59,4 +59,3 @@ Préparation:
 
 * <https://www.youtube.com/watch?v=pigPkGWgzWs>
 * <https://www.youtube.com/watch?v=4kagclc5KO0>
-
