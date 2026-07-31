@@ -18,14 +18,13 @@ tags:
 
 Donne TODO
 
-Pistou:
+Pistou, macérer 1h à 1.5h:
 
 * Feuilles d’une botte de basilic haché fin
 * 7 à 8 gousses d’ail haché fin
 * Environs 125 grammes de gruyère râpé
 * Sel et poivre
 * Huile d’olive pour couvrir le pistou
-* Laisser macérer 1h00 à 1h30
 
 Soupe:
 
@@ -35,6 +34,7 @@ Soupe:
 * 5 ou 6 carottes, épluchées et coupées en gros dés
 * 4 rabioles, épluchés et coupés en gros dés
 * 4 zucchinis, épluchés et couper en gros dés
+* 1L (TODO confirmer la qté) d'eau légèrement salée
 * 4 poignées de rigatonis
 * 0.75 tasse huile d'olive
 * 125 à 200g gruyère râpé
@@ -42,6 +42,8 @@ Soupe:
 ## Notes
 
 * Cette recette-ci c'est la version de Nana, modifiée à sa façon
+* Comme il y a des patates, ça ne se congèle pas trop bien. A moins qu'on ne
+  mette pas les patates avant de préparer le tout pour la congélation.
 
 ## Instructions
 
@@ -56,4 +58,3 @@ Préparation:
 6. Bien mélanger et laisser reposer environ 30 minutes.
 7. Ajouter 3/4 tasse d’huile d’olive au goût.
 8. Servir dans des grands bols avec du gruyère râpé sur le dessus.
-
