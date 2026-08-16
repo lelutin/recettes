@@ -6,7 +6,7 @@ tags:
  - plat_accompagnement
  - plat_entrée
  - protéine_légumineuse
- - végétarien
+ - vegan
 ---
 
 * [Ingrédients](#ingrédients)
@@ -42,12 +42,11 @@ Salade:
   * 2 concombres moyens, en petits cubes
   * 1 tasse olives kalamata dénoyautées, hachées grossièrement
   * 0.75 tasse menthe fraîche, hachée grossièrement
-* 1 tasse fromage ricotta ou feta
 
 ## Notes
 
-* Si on ne mange pas toute la salade d'un coup, ajouter la menthe et le fromage
-  dans les bols seulement juste avant le service. TODO tester: p-e aussi la vinaigrette?
+* Si on ne mange pas toute la salade d'un coup, ajouter la menthe dans les bols
+  seulement juste avant le service.
 
 ## Instructions
 
@@ -64,10 +63,9 @@ Préparation:
 3. Combiner les lentilles, la vinaigrette, le concombre et les olives dans un
    grand bol. Mélanger pour répandre la vinaigrette sur tout. Saler et poivrer
    au goût.
-4. Juste avant de servir, ajouter la menthe quelques morceaux de fromage sur les
-   bols.
-   * On ajoute la menthe et le fromage direct dans les bols de service parce que
-     les deux se transforment dans le frigo et ça devient moins bon.
+4. Juste avant de servir, ajouter la menthe sur les bols.
+   * On ajoute la menthe direct dans les bols de service parce que les deux se
+     transforment dans le frigo et ça devient moins bon.
 
 ## Références
 
