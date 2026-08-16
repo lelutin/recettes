@@ -16,15 +16,16 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 14 à 16 portions
 
 Pistou, macérer 1h à 1.5h:
 
-* Feuilles d’une botte de basilic haché fin
-* 7 à 8 gousses d’ail haché fin
-* Environs 125 grammes de gruyère râpé
+* Feuilles d'au moins deux plants de basilic haché fin
+* 14 à 16 gousses d’ail haché fin
+* Environs 200g de gruyère râpé
 * Sel et poivre
 * Huile d’olive pour couvrir le pistou
+  * On veut que le pistou ait une consistance très "humide"
 
 Soupe:
 
@@ -34,7 +35,7 @@ Soupe:
 * 5 ou 6 carottes, épluchées et coupées en gros dés
 * 4 rabioles, épluchés et coupés en gros dés
 * 4 zucchinis, épluchés et couper en gros dés
-* 1L (TODO confirmer la qté) d'eau légèrement salée
+* 6 à 8L eau (assez pour couvrir les légumes)
 * 4 poignées de rigatonis
 * 0.75 tasse huile d'olive
 * 125 à 200g gruyère râpé
