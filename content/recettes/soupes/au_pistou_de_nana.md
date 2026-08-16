@@ -29,7 +29,7 @@ Pistou, macérer 1h à 1.5h:
 
 Soupe:
 
-* 4 tasses de haricots rouges frais
+* 4 tasses de haricots cranberry (roma) frais
 * 2 1/2 tasses de haricots verts plats, coupés en gros morceaux
 * 5 ou 6 pommes de terres, épluchées et coupées en gros dés
 * 5 ou 6 carottes, épluchées et coupées en gros dés
