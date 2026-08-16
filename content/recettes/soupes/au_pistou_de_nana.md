@@ -30,6 +30,7 @@ Pistou, macérer 1h à 1.5h:
 Soupe:
 
 * 4 tasses de haricots cranberry (roma) frais
+  * C'est en saison en août, et on peut en trouver au marché Jean-Talon
 * 2 1/2 tasses de haricots verts plats, coupés en gros morceaux
 * 5 ou 6 pommes de terres, épluchées et coupées en gros dés
 * 5 ou 6 carottes, épluchées et coupées en gros dés
