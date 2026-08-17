@@ -142,6 +142,9 @@ Préparation:
    et d'aromates (champignons, zeste et jus de citron, tomates, etc) comme
    décoration.
 
+Servir avec soit une salade, des légumes rôtis, une protéine comme de la viande
+ou des saucisses ou encore des pétoncles, des crevettes ou du poisson.
+
 ## Références
 
 * <https://www.thekitchn.com/mushroom-risotto-recipe-23424427>
