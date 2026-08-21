@@ -13,7 +13,7 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 2 à quatre portions repas
 
 Vinaigrette:
 
@@ -27,7 +27,7 @@ Vinaigrette:
 
 Salade:
 
-* 225g poitrine de poulet désossée, aplatie puis cuite et coupée en gros dés
+* 225g poitrine de poulet désossée, aplatie, coupée en gros dés puis cuite
 * 6 à 8 tranches bacon, cuites et égrainées
 * 90g salami de Gênes, en tranches minces puis coupé en bouchées
 * 2 à 3 tomates Romaines, épépinées et coupées en bouchées
