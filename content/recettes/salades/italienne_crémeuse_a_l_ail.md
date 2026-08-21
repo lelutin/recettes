@@ -32,7 +32,7 @@ Salade:
 * 90g salami de Gênes, en tranches minces puis coupé en bouchées
 * 2 à 3 tomates Romaines, épépinées et coupées en bouchées
 * 1 à 2 coeurs de laitue romaine, coupés en bouchées
-* 1 petit oignon rouge, coupé en bouchées et blanchis dans la poêle
+* 1 petit oignon rouge, coupé en bouchées et cuit quelques secondes
   * la recette suggère de les tremper 10 minutes à la place mais l'oignon reste
     plutôt fort tout de même.
 * 1 tasse pois chiches ou fèves (fava beans)
