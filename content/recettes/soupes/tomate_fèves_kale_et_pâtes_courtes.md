@@ -26,11 +26,12 @@ Donne 4 à 6 portions
 * dans un grand bol
   * 350ml (ou une grosse boîte) tomates en cubes avec le jus
   * 1 tasse mie de pain
-* 2 tasses tomates fraîches, hachées finement et avec leur jus
-* 1 pincée flocon de piments
-* 1 pincée poivre noir
-* 6 tasses feuilles de choux frisé (kale) sans queue
+  * 2 tasses tomates fraîches, hachées finement et avec leur jus
+  * 1 pincée flocon de piments
+  * 1 pincée poivre noir
+* 6 tasses feuilles de choux frisé (kale) sans queue, haché grossièrement
 * 170g petites pâtes sèches comme trofie, tubetti ou macaroni
+  * ça peut aussi fonctionner avec des rigatoni mais ça fait des grosse bouchées
 * huile d'olive
 * 2 tasses parmesan, râpé
 
