@@ -14,7 +14,9 @@ tags:
 
 Donne 4 à 6 portions
 
-* 1.5 tasse fèves pinto ou cranberry (roma) sèches, rincées
+* 1.5 tasse fèves pinto sèches, rincées
+  * ou cranberry (roma)
+  * ou gourganes (fava)
 * dans un bol moyen
   * 4 tasses bouillon de poulet
   * 2 gousses d'ail, épluchées et entières mais écrasées
