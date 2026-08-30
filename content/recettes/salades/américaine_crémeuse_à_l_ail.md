@@ -43,6 +43,15 @@ Salade:
 * 1/4 tasse parmesan, râpé
 * sel cachère et poivre noir fraîchement moulu
 
+## Notes
+
+* La salade ne se conserve vraiment pas bien après que la vinaigrette ait été
+  mélangée: la laitue a tendance à flétrir après quelques heures. Si on veut
+  préparer cette recette là d'avance, c'est important de mélanger la
+  vinaigrette seulement juste avant de servir. Donc aussi si on prévoit avoir
+  des restants, c'est mieux de séparer les portions en trop sans vinaigrette
+  avant de mélanger la vinaigrette dans ce qu'on prévoit manger.
+
 ## Instructions
 
 Préparation:
