@@ -1,5 +1,5 @@
 ---
-title: "Salade 'italienne' à la sauce crémeuse à l'ail"
+title: "Salade américaine à la sauce crémeuse à l'ail"
 summary: "Salade costaude au poulet, bacon et salami avec pois chiches et une sauce à l'ail"
 tags:
  - plat_principal
