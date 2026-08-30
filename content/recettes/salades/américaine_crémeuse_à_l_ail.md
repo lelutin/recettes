@@ -13,7 +13,7 @@ tags:
 
 ## Ingrédients
 
-Donne 2 à quatre portions repas
+Donne 4 à 6 portions
 
 Vinaigrette:
 
