@@ -12,7 +12,7 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 4 à 6 portions
 
 * 700g poitrine de poulet désossée, en bouchées
 * 700g brocoli, en bouchées
