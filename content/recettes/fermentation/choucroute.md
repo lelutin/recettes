@@ -13,24 +13,13 @@ tags:
 * [Instructions](#instructions)
 * [Trucs pour râper avec la mandoline](#trucs-pour-râper-avec-la-mandoline)
 * [Résultats](#résultats)
+  * [octobre 2024](#octobre-2024)
   * [mars 2021](#mars-2021)
-  * [1ère fermentation (2017)](#1ère-fermentation-(2017))
+  * [1ère fermentation (2017)](#1ère-fermentation-2017)
 
 ## Ingrédients
 
-Pour deux pots mason d'1L:
-
-* 1 choux moyen, environs 1 à 1.3Kg, feuilles extérieures retirées jusqu'à la
-  première belle feuille, retirer la première belle feuille et conserver,
-  coeurs retirés
-* 2 c. Table sel pour fermentation ou gros sel ou sel casher
-  * on vise avoir un poids de sel entre 2.5% et 3% du poids de choux
-* 1 c. Table baies de genièvre
-* 1 c. thé poivre rose
-
-Pour un crock pot de 5L (dérivés des qtés au dessus, mais déjà calculé pour le
-format. Plus que ça les pierres ne rentreraient plus dans le pot et il nous faut
-la saumure pour limiter la quantité initiale d'air dans le pot):
+Donne 5L (TODO confirmer que ça donne vraiment ce volume là après fermentation):
 
 * 4 choux moyens, environs 4 à 5Kg
 * 8 c. Table sel pour fermentation ou gros sel ou sel casher
@@ -40,6 +29,18 @@ la saumure pour limiter la quantité initiale d'air dans le pot):
   * 25g sel, dissout dans l'eau
 * 4 c. Table de baies de genièvre
 * 4 c. thé poivre rose
+
+Note: Je fais ça dans un pot à fermentation (crock en terre cuite) de 5L. Si je met plus d'ingrédients que ça les pierres ne rentrent plus dans le pot. Aussi ça prend assez de saumure pour limiter couvrir le choux et limiter la quantité initiale d'air dans le pot.
+
+(version alternative, plus petite) Donne deux pots mason d'1L:
+
+* 1 choux moyen, environs 1 à 1.3Kg, feuilles extérieures retirées jusqu'à la
+  première belle feuille, retirer la première belle feuille et conserver,
+  coeurs retirés
+* 2 c. Table sel pour fermentation ou gros sel ou sel casher
+  * on vise avoir un poids de sel entre 2.5% et 3% du poids de choux
+* 1 c. Table baies de genièvre
+* 1 c. thé poivre rose
 
 ## Ustensiles
 
@@ -84,7 +85,7 @@ la saumure pour limiter la quantité initiale d'air dans le pot):
 
 ## Instructions
 
-1. Nettoyer les récipients, les poids, le maillet si vous compter en utiliser
+1. Nettoyer les récipients, les poids, le maillet si vous comptez en utiliser
    un pour compresser le choux et les couvercles. Laver vos mains. La propreté
    aide à réduire les risques de contamination de moisissures.
 2. A partir de la base, couper le choux en deux, puis couper en quartier.
@@ -94,7 +95,7 @@ la saumure pour limiter la quantité initiale d'air dans le pot):
    Transférer le choux dans le grand bol.
 3. Ajouter le sel au choux râpé. Mélanger un tout petit peu pour distribuer le
    sel. Laisser suer environs 10mins.
-4. Tourner et appuyer sur le choux avec tout son poids répétitivement jusqu'à
+4. Tourner et appuyer sur le choux avec tout son poids à répétition jusqu'à
    ce que le choux soit réduit de moitié, environs 10 à 15mins. Le choux aura à
    ce point sorti beaucoup de son eau, produisant ainsi une saumure au fond du
    bol.
@@ -155,6 +156,16 @@ Après avoir tout coupé le choux, couper le plus mince possible ce qui a été 
 de côté sur la planche à couper, et ensuite transférer dans le bol.
 
 ## Résultats
+
+### octobre 2024
+
+J'utilise depuis qqs années un pot à fermentation en terre cuite de 5L. C'est
+plus long à préparer à cause de la quantité d'ingrédients et il faut trouver à
+qui donner de la choucroute parce que ça en fait beaucoup en une fois. Aussi
+avec le type de pot que j'utilise (construction style allemande) il faut
+vérifier à chaque jour s'il reste assez d'eau autour du couvercle pour maintenir
+le sceau hermétique. Par contre la fermentation est vraiment plus stable et le
+goût est meilleur en bout de ligne.
 
 ### mars 2021
 
