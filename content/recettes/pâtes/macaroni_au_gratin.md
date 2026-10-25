@@ -15,7 +15,7 @@ tags:
 
 ## Ingrédients
 
-Donne TODO
+Donne 8 à 12 portions
 
 * eau
 * 500g macaroni
