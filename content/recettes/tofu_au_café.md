@@ -58,7 +58,7 @@ Préparation:
 3. Dans une poêle avec la plus grande surface possible chauffer un peu d'huile
    de cuisson à feu moyen. Placer les morceaux de tofu dans l'huile dans la
    poêle et séparer un peu les morceaux. Faire frire le tofu jusqu'à ce que tous
-   les côtés soient rendus bien dorés, environs 2 minutes chaque côté.
+   les côtés soient rendus bien dorés, environs 5 minutes chaque côté.
    * Eviter de trop bouger ou retourner le tofu jusqu'à ce que la couleur dorée
      soit bien établie.
 4. Retirer du feu et conserver.
