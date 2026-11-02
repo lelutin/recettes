@@ -55,12 +55,12 @@ Préparation:
 2. Dans un grand bol, placer le tofu et ajouter assez de fécule pour courir le
    tofu. Saler et poivrer puis, mélanger doucement jusqu'à ce que les morceaux
    de tofu soient bien recouverts de fécule..
-3. Dans une grande poêle à feu moyen chauffer un peu d'huile de cuisson. Placer
-   les morceaux de tofu dans l'huile dans la poêle et séparer un peu les
-   morceaux. Faire frire le tofu jusqu'à ce que tous les côtés soient rendus
-   bien dorés, environs 2 minutes chaque côté.
-   * Eviter de retourner le tofu jusqu'à ce que la couleur dorée soit bien
-     établie.
+3. Dans une poêle avec la plus grande surface possible chauffer un peu d'huile
+   de cuisson à feu moyen. Placer les morceaux de tofu dans l'huile dans la
+   poêle et séparer un peu les morceaux. Faire frire le tofu jusqu'à ce que tous
+   les côtés soient rendus bien dorés, environs 2 minutes chaque côté.
+   * Eviter de trop bouger ou retourner le tofu jusqu'à ce que la couleur dorée
+     soit bien établie.
 4. Retirer du feu et conserver.
    * Pour du tofu encore plus croustillant, placer au four au feu le plus doux
      possible pour le garder chaud.
