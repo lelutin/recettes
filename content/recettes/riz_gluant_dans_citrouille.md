@@ -24,6 +24,8 @@ Riz:
 * 2 échalotes françaises, tranchées mince
 * 0.25 tasse marrons rôtis
 * 0.25 tasse arachides crues, bouillies pour ramollir
+  * ou amandes trempées pendant le même temps que le riz et ensuite peaux
+    retirées
 * (optionnel) 1 (~1kg) Citrouille Kabocha
   * le nom de la recette devient un peu un mensonge sans ça mais on peut faire
     le riz assaisonné tout seul et le servir avec d'autres légumes.
@@ -44,6 +46,8 @@ Sauce:
 ## Notes
 
 * Besoin d'équipement pour cuire à la vapeur
+* Préparer des marrons c'est assez long donc c'est une bonne idée de le faire
+  d'avance.
 
 ## Instructions
 
@@ -64,7 +68,8 @@ Cuire le riz:
 
 Méthode 1: Cuire dans une citrouille
 
-1. Préchauffer le four à 200°C (400°F) et préparer une plaque de cuisson.
+1. Préchauffer le four à 200°C (400°F) et préparer une plaque de cuisson avec du
+   papier parchemin dedans.
 2. Couper le dessus de la citrouille pour retirer la queue et exposer un peu les
    graines. Sortir les graines à la cuiller.
    * Conserver les graines pour en faire autre chose.
